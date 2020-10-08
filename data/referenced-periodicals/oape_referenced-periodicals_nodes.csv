@@ -1,0 +1,458 @@
+Id,Label,timeset,target.id.oclc,target.title,target.location.name,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,modularity_class
+almQtbs,almQtbs,,4770057679,المقتبس,al-Qāhira,3,0,3,64,0,64,3
+alhlal,alhlal,,1639361,الهلال,al-Qāhira,3,0,3,23,0,23,3
+almnar,almnar,,1588981,المنار,al-Qāhira,3,0,3,17,0,17,3
+almQtTf,almQtTf,,931941685,المقتطف,Bayrūt,3,0,3,15,0,15,3
+alDyaq,alDyaq,,1034555409,الضياء,al-Qāhira,3,0,3,10,0,10,3
+almfyd,almfyd,,1034548778,المفيد,Bayrūt,3,0,3,9,0,9,0
+lG0 al3rb,lG0 al3rb,,472450345,لغة العرب,Baghdād,2,0,2,29,0,29,2
+al7Qa5Q,al7Qa5Q,,644997575,الحقائق,Dimashq,2,0,2,26,0,26,0
+mjl0 al3alm alaslamy,mjl0 al3alm alaslamy,,1681243,مجلة العالم الإسلامي,Paris,2,0,2,21,0,21,3
+almWrQ,almWrQ,,473817521,المشرق,Bayrūt,2,0,2,16,0,16,3
+al3lm,al3lm,,NA,العلم,Baghdād,2,0,2,14,0,14,2
+almoyd,almoyd,,792755902,المؤيد,al-Qāhira,2,0,2,11,0,11,0
+alzhwr,alzhwr,,1034545644,الزهور,al-Qāhira,2,0,2,12,0,12,2
+al7ya0,al7ya0,,NA,الحياة,NA,2,0,2,9,0,9,2
+alTan,alTan,,263593774,الطان,Paris,2,0,2,9,0,9,3
+al7snaq,al7snaq,,792756327,الحسناء,Bayrūt,2,0,2,8,0,8,1
+al3almyn,al3almyn,,NA,العالمين,NA,2,0,2,8,0,8,3
+al3rfan,al3rfan,,1022938052,العرفان,Ṣaida,2,0,2,7,0,7,3
+albyan,albyan,,792754974,البيان,al-Qāhira,2,0,2,7,0,7,3
+alWrQ,alWrQ,,NA,الشرق,NA,2,0,2,7,0,7,3
+altyms,altyms,,992611467,التيمس,London,2,0,2,6,0,6,3
+aljam30,aljam30,,1034547407,الجامعة,Alexandria,2,0,2,5,0,5,3
+mjl0 almjlat,mjl0 almjlat,,472961896,مجلة المجلات,Paris,2,0,2,6,0,6,0
+mQtbs,mQtbs,,NA,مقتبس,NA,2,0,2,4,0,4,3
+al7QyQ0,al7QyQ0,,1034550756,الحقيقة,Bayrūt,3,0,3,4,0,4,0
+alaUar,alaUar,,1034551122,الآثار,Zaḥla,2,0,2,3,0,3,3
+alat7ad al3Umany,alat7ad al3Umany,,42900564,الاتحاد العثماني,Bayrūt,2,0,2,3,0,3,0
+al7QwQ,al7QwQ,,NA,الحقوق,Jabal Lubnān,3,0,3,4,0,4,1
+al3Sr aljdyd,al3Sr aljdyd,,NA,العصر الجديد,Dimashq,2,0,2,3,0,3,0
+alwTn,alwTn,,NA,الوطن,Bayrūt,3,0,3,4,0,4,0
+alkwUr,alkwUr,,NA,الكوثر,NA,2,0,2,3,0,3,3
+bGdad,bGdad,,NA,بغداد,NA,2,0,2,2,0,2,2
+Tbyb al3a5l0,Tbyb al3a5l0,,NA,طبيب العائلة,NA,2,0,2,2,0,2,1
+alTbyb,alTbyb,,173830042,الطبيب,NA,2,0,2,2,0,2,2
+aljnan,aljnan,,987291181,الجنان,Bayrūt,2,0,2,2,0,2,2
+alarWad,alarWad,,NA,الإرشاد,NA,2,0,2,2,0,2,0
+alray al3am,alray al3am,,NA,الرأي العام,Bayrūt,2,0,2,2,0,2,1
+alzwraq,alzwraq,,NA,الزوراء,Baghdād,2,0,2,3,0,3,2
+al3rb,al3rb,,NA,العرب,NA,2,0,2,2,0,2,0
+alkly0,alkly0,,NA,الكلية,NA,2,0,2,2,0,2,1
+alnSyr,alnSyr,,NA,النصير,NA,2,0,2,2,0,2,0
+tnwyr alafkar,tnwyr alafkar,,NA,تنوير الأفكار,NA,2,0,2,2,0,2,2
+sbyl alrWad,sbyl alrWad,,NA,سبيل الرشاد,NA,2,0,2,2,0,2,0
+lsan al3rb,lsan al3rb,,NA,لسان العرب,NA,2,0,2,2,0,2,2
+almjl0,almjl0,,472961924,المجلة,Paris,1,0,1,27,0,27,3
+alryaD,alryaD,,NA,الرياض,Baghdād,1,0,1,24,0,24,2
+alaQtSadyyn,alaQtSadyyn,,NA,الاقتصاديين,NA,1,0,1,7,0,7,3
+alTby30,alTby30,,NA,الطبيعة,NA,1,0,1,7,0,7,3
+alhdA,alhdA,,NA,الهدى,NA,1,0,1,6,0,6,3
+aldstwr,aldstwr,,NA,الدستور,NA,1,0,1,6,0,6,2
+mjl0 almjlat alnywywrky0,mjl0 almjlat alnywywrky0,,19000299,مجلة المجلات النيويوركية,New York City,1,0,1,5,0,5,3
+aldyba,aldyba,,NA,الديبا,NA,1,0,1,5,0,5,3
+alnbras,alnbras,,NA,النبراس,NA,1,0,1,5,0,5,3
+ala7kam,ala7kam,,NA,الأحكام,NA,1,0,1,4,0,4,3
+mjl0 almjlat alanklyzy0,mjl0 almjlat alanklyzy0,,297351216,مجلة المجلات الإنكليزية,London,1,0,1,4,0,4,3
+alaQtSad,alaQtSad,,NA,الاقتصاد,NA,1,0,1,4,0,4,3
+aljwa5b,aljwa5b,,NA,الجوائب,NA,1,0,1,4,0,4,3
+aljwrnal,aljwrnal,,NA,الجورنال,NA,1,0,1,4,0,4,3
+jryd0 almQtbs,jryd0 almQtbs,,NA,جريدة المقتبس,NA,1,0,1,4,0,4,3
+Tnyn,Tnyn,,NA,طنين,NA,1,0,1,4,0,4,3
+altrby0,altrby0,,NA,التربية,NA,1,0,1,3,0,3,3
+mjl0 almjlat alamyrky0,mjl0 almjlat alamyrky0,,19000299,مجلة المجلات الأميركية,New York City,1,0,1,3,0,3,3
+alahram,alahram,,NA,الأهرام,NA,1,0,1,3,0,3,3
+7dyQ0 alaKbar,7dyQ0 alaKbar,,NA,حديقة الأخبار,NA,2,0,2,4,0,4,3
+sbl alrWad,sbl alrWad,,NA,سبل الرشاد,NA,1,0,1,3,0,3,2
+alblaG,alblaG,,NA,البلاغ,NA,1,0,1,3,0,3,0
+alzrQaq,alzrQaq,,NA,الزرقاء,NA,1,0,1,3,0,3,3
+alZahr,alZahr,,NA,الظاهر,NA,1,0,1,3,0,3,3
+alQrn,alQrn,,NA,القرن,NA,1,0,1,3,0,3,3
+alQsTas,alQsTas,,NA,القسطاس,NA,1,0,1,3,0,3,2
+almjl0 alasyawy0,almjl0 alasyawy0,,NA,المجلة الآسياوية,NA,1,0,1,3,0,3,3
+almnbr,almnbr,,NA,المنبر,NA,1,0,1,3,0,3,3
+Whbal,Whbal,,NA,شهبال,NA,1,0,1,3,0,3,3
+Sba7,Sba7,,NA,صباح,NA,1,0,1,3,0,3,3
+mjl0 altrby0,mjl0 altrby0,,NA,مجلة التربية,NA,1,0,1,3,0,3,3
+mjl0 al3almyn,mjl0 al3almyn,,NA,مجلة العالمين,NA,1,0,1,3,0,3,3
+yky Gzth,yky Gzth,,NA,يكي غزته,NA,1,0,1,3,0,3,3
+byrwt,byrwt,,NA,بيروت,NA,1,0,1,2,0,2,3
+adl0 altrQy,adl0 altrQy,,NA,أدلة الترقي,NA,1,0,1,2,0,2,3
+aQdam,aQdam,,NA,إقدام,NA,1,0,1,3,0,3,3
+al7Q y3lw,al7Q y3lw,,NA,الحق يعلو,NA,1,0,1,2,0,2,0
+alrSaf0,alrSaf0,,NA,الرصافة,NA,1,0,1,2,0,2,2
+7mS,7mS,,NA,حمص,NA,1,0,1,2,0,2,3
+alanal,alanal,,NA,الآنال,NA,1,0,1,2,0,2,3
+alafkar,alafkar,,NA,الأفكار,NA,1,0,1,2,0,2,3
+alajtma3,alajtma3,,NA,الاجتماع,NA,1,0,1,2,0,2,3
+albaryzy0,albaryzy0,,NA,الباريزية,NA,1,0,1,2,0,2,3
+albrys,albrys,,NA,البريس,NA,1,0,1,2,0,2,3
+albywt,albywt,,NA,البيوت,NA,1,0,1,2,0,2,3
+alt3lym,alt3lym,,NA,التعليم,NA,1,0,1,2,0,2,3
+altwaryK,altwaryK,,NA,التواريخ,NA,1,0,1,2,0,2,3
+aljryd0,aljryd0,,NA,الجريدة,NA,1,0,1,2,0,2,3
+al7ya0 albyty0,al7ya0 albyty0,,NA,الحياة البيتية,NA,1,0,1,2,0,2,3
+alr5ys,alr5ys,,NA,الرئيس,NA,1,0,1,2,0,2,3
+alrawy,alrawy,,NA,الراوي,NA,1,0,1,2,0,2,3
+alS70,alS70,,NA,الصحة,NA,1,0,1,2,0,2,3
+al3alm aljdyd,al3alm aljdyd,,NA,العالم الجديد,NA,1,0,1,2,0,2,3
+al3Umany,al3Umany,,NA,العثماني,NA,1,0,1,2,0,2,0
+al3Sr,al3Sr,,NA,العصر,NA,1,0,1,2,0,2,3
+alQSr,alQSr,,NA,القصر,NA,1,0,1,2,0,2,3
+alka5nat,alka5nat,,NA,الكائنات,NA,1,0,1,2,0,2,0
+alkrml,alkrml,,NA,الكرمل,NA,1,0,1,2,0,2,3
+alkwrsbwndan,alkwrsbwndan,,NA,الكورسبوندان,NA,1,0,1,2,0,2,3
+allwaq,allwaq,,NA,اللواء,NA,1,0,1,2,0,2,3
+almba7U,almba7U,,NA,المباحث,NA,1,0,1,2,0,2,3
+almjl0 alasbany0,almjl0 alasbany0,,NA,المجلة الإسبانية,NA,1,0,1,2,0,2,3
+almjl0 altwnsy0,almjl0 altwnsy0,,NA,المجلة التونسية,NA,1,0,1,2,0,2,3
+almjl0 aljdyd0,almjl0 aljdyd0,,NA,المجلة الجديدة,NA,1,0,1,2,0,2,3
+alm7yT,alm7yT,,NA,المحيط,NA,1,0,1,2,0,2,3
+almdrs0,almdrs0,,NA,المدرسة,NA,1,0,1,2,0,2,3
+almTal3at albyty0,almTal3at albyty0,,NA,المطالعات البيتية,NA,1,0,1,2,0,2,3
+almntQd,almntQd,,NA,المنتقد,NA,1,0,1,2,0,2,3
+aln3m0,aln3m0,,NA,النعمة,NA,1,0,1,2,0,2,3
+alwrld,alwrld,,NA,الورلد,NA,1,0,1,2,0,2,3
+tSwyr afkar,tSwyr afkar,,NA,تصوير أفكار,NA,1,0,1,2,0,2,3
+Urwt fnwn,Urwt fnwn,,NA,ثروت فنون,NA,1,0,1,2,0,2,3
+rwD0 almdars,rwD0 almdars,,NA,روضة المدارس,NA,1,0,1,2,0,2,3
+mjl0 aljam30 almSry0,mjl0 aljam30 almSry0,,NA,مجلة الجامعة المصرية,NA,1,0,1,2,0,2,3
+mjl0 alTby30,mjl0 alTby30,,NA,مجلة الطبيعة,NA,1,0,1,2,0,2,3
+mjl0 al3lm alajtma3y,mjl0 al3lm alajtma3y,,NA,مجلة العلم الاجتماعي,NA,1,0,1,2,0,2,3
+al3raQ,al3raQ,,NA,العراق,NA,1,0,1,1,0,1,2
+alaSla7,alaSla7,,NA,الإصلاح,NA,1,0,1,1,0,1,3
+aljam30 almSry0,aljam30 almSry0,,NA,الجامعة المصرية,NA,1,0,1,1,0,1,3
+alWam,alWam,,NA,الشام,NA,1,0,1,1,0,1,3
+alQds,alQds,,NA,القدس,NA,1,0,1,1,0,1,3
+alnjf,alnjf,,NA,النجف,NA,1,0,1,1,0,1,3
+ftA al3rb,ftA al3rb,,NA,فتى العرب,NA,1,0,1,1,0,1,3
+mkarm alaKlaQ,mkarm alaKlaQ,,NA,مكارم الأخلاق,NA,1,0,1,1,0,1,0
+mjl0 almjlat alamryky0,mjl0 almjlat alamryky0,,19000299,مجلة المجلات الأمريكية,New York City,1,0,1,1,0,1,3
+mjl0 almjlat alfrnsy0,mjl0 almjlat alfrnsy0,,472961896,مجلة المجلات الفرنسية,Paris,1,0,1,1,0,1,3
+(salnam0) wlay0 byrwt,(salnam0) wlay0 byrwt,,NA,(سالنامة) ولاية بيروت,NA,1,0,1,1,0,1,3
+Le Traducteur,Le Traducteur,,NA,Le Traducteur,NA,1,0,1,1,0,1,3
+Les Documents du Progrès,Les Documents du Progrès,,NA,Les Documents du Progrès,NA,1,0,1,1,0,1,3
+Revue Hispanique,Revue Hispanique,,NA,Revue Hispanique,NA,1,0,1,1,0,1,3
+Revue internationale d'éthnologie et de la linguistique,Revue internationale d'éthnologie et de la linguistique,,NA,Revue internationale d'éthnologie et de la linguistique,NA,1,0,1,1,0,1,3
+aKwt,aKwt,,NA,أخوت,NA,1,0,1,1,0,1,2
+arnaowd,arnaowd,,NA,أرناؤود,NA,1,0,1,1,0,1,3
+afkar 3mwmy0,afkar 3mwmy0,,NA,أفكار عمومية,NA,1,0,1,1,0,1,2
+amyrka alWmaly0,amyrka alWmaly0,,NA,أميركا الشمالية,NA,1,0,1,1,0,1,3
+anys aljlys,anys aljlys,,NA,أنيس الجليس,NA,1,0,1,1,0,1,3
+ayfnn nywz,ayfnn nywz,,NA,إيفنن نيوز,NA,1,0,1,1,0,1,3
+aWk,aWk,,NA,اشك,NA,1,0,1,1,0,1,3
+alasyawy0,alasyawy0,,NA,الآسياوية,NA,1,0,1,1,0,1,3
+alawrlwk,alawrlwk,,NA,الآورلوك,NA,1,0,1,1,0,1,3
+alaUry,alaUry,,NA,الأثري,NA,1,0,1,1,0,1,3
+alaKbar,alaKbar,,NA,الأخبار,NA,1,0,1,1,0,1,3
+alarz,alarz,,NA,الأرز,NA,1,0,1,1,0,1,3
+alarD,alarD,,NA,الأرض,NA,1,0,1,1,0,1,3
+alasbw3 aladby,alasbw3 aladby,,NA,الأسبوع الأدبي,NA,1,0,1,1,0,1,3
+alasrar,alasrar,,NA,الأسرار,NA,1,0,1,1,0,1,2
+alaDwaq,alaDwaq,,NA,الأضواء,NA,1,0,1,1,0,1,2
+alafkar al7dyU0,alafkar al7dyU0,,NA,الأفكار الحديثة,NA,1,0,1,1,0,1,3
+alaQrbaq,alaQrbaq,,NA,الأقرباء,NA,1,0,1,1,0,1,3
+alaQlam,alaQlam,,NA,الأقلام,NA,1,0,1,1,0,1,3
+alamm,alamm,,NA,الأمم,NA,1,0,1,1,0,1,3
+alantrwbws,alantrwbws,,NA,الأنتروبوس,NA,1,0,1,1,0,1,3
+alanwar,alanwar,,NA,الأنوار,NA,1,0,1,1,0,1,2
+alawtlwk,alawtlwk,,NA,الأوتلوك,NA,1,0,1,1,0,1,3
+alawtw,alawtw,,NA,الأوتو,NA,1,0,1,1,0,1,3
+alaKaq,alaKaq,,NA,الإخاء,NA,1,0,1,1,0,1,3
+alaKrajat,alaKrajat,,NA,الإخراجات,NA,1,0,1,1,0,1,3
+alaQbal,alaQbal,,NA,الإقبال,NA,1,0,1,1,0,1,3
+alansany0,alansany0,,NA,الإنسانية,NA,1,0,1,1,0,1,3
+alaykw dy bary,alaykw dy bary,,NA,الإيكو دي باري,NA,1,0,1,1,0,1,3
+alaykwdy bary,alaykwdy bary,,NA,الإيكودي باري,NA,1,0,1,2,0,2,3
+alat7ad,alat7ad,,NA,الاتحاد,NA,1,0,1,1,0,1,3
+ala7wal,ala7wal,,NA,الاحوال,NA,1,0,1,1,0,1,1
+ala7yaq,ala7yaq,,NA,الاحياء,NA,1,0,1,1,0,1,3
+alast3mar,alast3mar,,NA,الاستعمار,NA,1,0,1,1,0,1,3
+alakwnwmbst awrbyyn,alakwnwmbst awrbyyn,,NA,الاكونومبست أوربيين,NA,1,0,1,1,0,1,3
+alalstrasywn,alalstrasywn,,NA,الالستراسيون,NA,1,0,1,1,0,1,2
+alam0,alam0,,NA,الامة,NA,1,0,1,1,0,1,1
+alanUrbws,alanUrbws,,NA,الانثربوس,NA,1,0,1,1,0,1,2
+alanQlab,alanQlab,,NA,الانقلاب,NA,1,0,1,1,0,1,2
+alawnyfr,alawnyfr,,NA,الاونيفر,NA,1,0,1,1,0,1,2
+alaykw,alaykw,,NA,الايكو,NA,1,0,1,1,0,1,3
+albabyrws,albabyrws,,NA,البابيروس,NA,1,0,1,1,0,1,3
+albal mal Gazt,albal mal Gazt,,NA,البال مال غازت,NA,1,0,1,1,0,1,3
+albty,albty,,NA,البتي,NA,1,0,1,1,0,1,3
+albty baryzyn,albty baryzyn,,NA,البتي باريزين,NA,1,0,1,1,0,1,3
+albty jrnal,albty jrnal,,NA,البتي جرنال,NA,1,0,1,1,0,1,3
+albWyr,albWyr,,NA,البشير,NA,1,0,1,1,0,1,3
+albSa5r,albSa5r,,NA,البصائر,NA,1,0,1,1,0,1,3
+albSr0,albSr0,,NA,البصرة,NA,1,0,1,1,0,1,3
+alblbl,alblbl,,NA,البلبل,NA,1,0,1,1,0,1,2
+altrbywna,altrbywna,,NA,التربيونا,NA,1,0,1,1,0,1,3
+alt3awn,alt3awn,,NA,التعاون,NA,1,0,1,1,0,1,2
+altfkr,altfkr,,NA,التفكر,NA,1,0,1,1,0,1,2
+altnKl,altnKl,,NA,التنخل,NA,1,0,1,1,0,1,3
+alUbat,alUbat,,NA,الثبات,NA,1,0,1,1,0,1,3
+aljsmany0,aljsmany0,,NA,الجسمانية,NA,1,0,1,1,0,1,2
+aljwrnal dy kyr,aljwrnal dy kyr,,NA,الجورنال دي كير,NA,1,0,1,1,0,1,0
+al7ars,al7ars,,NA,الحارس,NA,1,0,1,1,0,1,3
+al7bl,al7bl,,NA,الحبل,NA,1,0,1,1,0,1,2
+al7jaz,al7jaz,,NA,الحجاز,NA,1,0,1,1,0,1,3
+al7km0,al7km0,,NA,الحكمة,NA,1,0,1,1,0,1,3
+al7ya0 albyt0,al7ya0 albyt0,,NA,الحياة البيتة,NA,1,0,1,1,0,1,3
+aldrws,aldrws,,NA,الدروس,NA,1,0,1,1,0,1,3
+aldwl0,aldwl0,,NA,الدولة,NA,1,0,1,1,0,1,3
+aldybyW klwnyal,aldybyW klwnyal,,NA,الديبيش كلونيال,NA,1,0,1,1,0,1,3
+aldyly,aldyly,,NA,الديلي,NA,1,0,1,1,0,1,3
+aldyly aksbrs,aldyly aksbrs,,NA,الديلي اكسبرس,NA,1,0,1,1,0,1,3
+aldyly tlGraf,aldyly tlGraf,,NA,الديلي تلغراف,NA,1,0,1,1,0,1,3
+aldyly krwnykl,aldyly krwnykl,,NA,الديلي كرونيكل,NA,1,0,1,1,0,1,3
+aldyly myrwr,aldyly myrwr,,NA,الديلي ميرور,NA,1,0,1,1,0,1,3
+aldyly myl,aldyly myl,,NA,الديلي ميل,NA,1,0,1,1,0,1,3
+aldyly nywz,aldyly nywz,,NA,الديلي نيوز,NA,1,0,1,1,0,1,3
+alrabT0,alrabT0,,NA,الرابطة,NA,1,0,1,1,0,1,3
+alrWyd,alrWyd,,NA,الرشيد,NA,1,0,1,1,0,1,1
+alrQyb,alrQyb,,NA,الرقيب,NA,1,0,1,1,0,1,2
+alrya7yn,alrya7yn,,NA,الرياحين,NA,1,0,1,1,0,1,2
+alry7an0,alry7an0,,NA,الريحانة,NA,1,0,1,1,0,1,3
+alzman,alzman,,NA,الزمان,NA,1,0,1,1,0,1,3
+alsa57,alsa57,,NA,السائح,NA,1,0,1,1,0,1,0
+alstandard,alstandard,,NA,الستاندارد,NA,1,0,1,1,0,1,3
+alstndard,alstndard,,NA,الستندارد,NA,1,0,1,1,0,1,3
+alsjlat almrakWy0,alsjlat almrakWy0,,NA,السجلات المراكشية,NA,1,0,1,1,0,1,3
+alslam,alslam,,NA,السلام,NA,1,0,1,1,0,1,3
+alsn0,alsn0,,NA,السنة,NA,1,0,1,1,0,1,3
+alswrfy,alswrfy,,NA,السورفي,NA,1,0,1,1,0,1,3
+alWtaq,alWtaq,,NA,الشتاء,NA,1,0,1,1,0,1,3
+alWrQ walGrb,alWrQ walGrb,,NA,الشرق والغرب,NA,1,0,1,1,0,1,3
+alW3raq,alW3raq,,NA,الشعراء,NA,1,0,1,1,0,1,3
+alSa3Q0,alSa3Q0,,NA,الصاعقة,NA,1,0,1,1,0,1,2
+alTb,alTb,,NA,الطب,NA,1,0,1,1,0,1,3
+alZra5f,alZra5f,,NA,الظرائف,NA,1,0,1,1,0,1,2
+al3alm,al3alm,,NA,العالم,NA,1,0,1,1,0,1,3
+al3alm alaslamy,al3alm alaslamy,,NA,العالم الإسلامي,NA,1,0,1,1,0,1,3
+al3alm alslamy,al3alm alslamy,,NA,العالم السلامي,NA,1,0,1,1,0,1,3
+al3alm alWrQy,al3alm alWrQy,,NA,العالم الشرقي,NA,1,0,1,1,0,1,3
+al3rw0,al3rw0,,NA,العروة,NA,1,0,1,1,0,1,3
+al3rws,al3rws,,NA,العروس,NA,1,0,1,1,0,1,3
+al3rys,al3rys,,NA,العريس,NA,1,0,1,1,0,1,3
+al3lm al3am,al3lm al3am,,NA,العلم العام,NA,1,0,1,1,0,1,3
+al3lm fy alQrn al 3Wryn,al3lm fy alQrn al 3Wryn,,NA,العلم في القرن ال عشرين,NA,1,0,1,1,0,1,3
+al3lmaq,al3lmaq,,NA,العلماء,NA,1,0,1,1,0,1,3
+al3mran,al3mran,,NA,العمران,NA,1,0,1,1,0,1,3
+al3ml0,al3ml0,,NA,العملة,NA,1,0,1,1,0,1,3
+al3hd,al3hd,,NA,العهد,NA,1,0,1,1,0,1,3
+alfra5d,alfra5d,,NA,الفرائد,NA,1,0,1,1,0,1,1
+alfrnswy0,alfrnswy0,,NA,الفرنسوية,NA,1,0,1,1,0,1,3
+alfyGar,alfyGar,,NA,الفيغار,NA,1,0,1,1,0,1,3
+alkrK,alkrK,,NA,الكرخ,NA,1,0,1,1,0,1,2
+alkmal,alkmal,,NA,الكمال,NA,1,0,1,1,0,1,2
+alkwnstytwsywnl,alkwnstytwsywnl,,NA,الكونستيتوسيونل,NA,1,0,1,1,0,1,3
+allaiQy0,allaiQy0,,NA,اللاذقية,NA,1,0,1,1,0,1,3
+allbab,allbab,,NA,اللباب,NA,1,0,1,1,0,1,3
+allhm,allhm,,NA,اللهم,NA,1,0,1,1,0,1,3
+allwQal anjaykr,allwQal anjaykr,,NA,اللوقال إنجايكر,NA,1,0,1,1,0,1,0
+allwyd,allwyd,,NA,اللويد,NA,1,0,1,1,0,1,3
+almatyn,almatyn,,NA,الماتين,NA,1,0,1,1,0,1,3
+almatyny,almatyny,,NA,الماتيني,NA,1,0,1,1,0,1,3
+almaytn,almaytn,,NA,المايتن,NA,1,0,1,1,0,1,3
+almbWr,almbWr,,NA,المبشر,NA,1,0,1,1,0,1,3
+almtrjm,almtrjm,,NA,المترجم,NA,1,0,1,1,0,1,3
+almtQtbs,almtQtbs,,NA,المتقتبس,NA,1,0,1,1,0,1,3
+almjl0 alasywy0,almjl0 alasywy0,,NA,المجلة الآسيوية,NA,1,0,1,1,0,1,3
+almjl0 alafryQy0,almjl0 alafryQy0,,NA,المجلة الإفريقية,NA,1,0,1,1,0,1,3
+almjl0 alast3mary0 alnyaby0,almjl0 alast3mary0 alnyaby0,,NA,المجلة الاستعمارية النيابية,NA,1,0,1,1,0,1,3
+almjl0 aljrmany0 alasyawy0,almjl0 aljrmany0 alasyawy0,,NA,المجلة الجرمانية الآسياوية,NA,1,0,1,1,0,1,3
+almjl0 almdrsy0,almjl0 almdrsy0,,NA,المجلة المدرسية,NA,1,0,1,1,0,1,3
+almjl0 almSry0,almjl0 almSry0,,NA,المجلة المصرية,NA,1,0,1,1,0,1,3
+almjl0 alwrdy0,almjl0 alwrdy0,,NA,المجلة الوردية,NA,1,0,1,1,0,1,3
+almjm3 alTby albryTany,almjm3 alTby albryTany,,NA,المجمع الطبي البريطاني,NA,1,0,1,1,0,1,3
+alm7rws0,alm7rws0,,NA,المحروسة,NA,1,0,1,1,0,1,3
+almra0,almra0,,NA,المرأة,NA,1,0,1,1,0,1,3
+almraQb,almraQb,,NA,المراقب,NA,1,0,1,1,0,1,3
+almrj,almrj,,NA,المرج,NA,1,0,1,1,0,1,3
+almsa5l aldwly0 alast3mary0,almsa5l aldwly0 alast3mary0,,NA,المسائل الدولية الاستعمارية,NA,1,0,1,1,0,1,3
+almstWrQyn,almstWrQyn,,NA,المستشرقين,NA,1,0,1,1,0,1,3
+almstQbl,almstQbl,,NA,المستقبل,NA,1,0,1,1,0,1,3
+almSba7,almSba7,,NA,المصباح,NA,1,0,1,1,0,1,2
+almSwَّr,almSwَّr,,NA,المصوَّر,NA,1,0,1,1,0,1,3
+almD7kat,almD7kat,,NA,المضحكات,NA,1,0,1,1,0,1,2
+alm3arf,alm3arf,,NA,المعارف,NA,1,0,1,1,0,1,0
+alm3yn alajtma3y,alm3yn alajtma3y,,NA,المعين الاجتماعي,NA,1,0,1,1,0,1,3
+almfyd0,almfyd0,,NA,المفيدة,NA,1,0,1,1,0,1,3
+almQtbs alywmy,almQtbs alywmy,,NA,المقتبس اليومي,NA,1,0,1,1,0,1,3
+almQTm,almQTm,,NA,المقطم,NA,1,0,1,1,0,1,3
+almnaZr,almnaZr,,NA,المناظر,NA,1,0,1,1,0,1,1
+almntj,almntj,,NA,المنتج,NA,1,0,1,1,0,1,3
+almntKbat,almntKbat,,NA,المنتخبات,NA,1,0,1,1,0,1,0
+almntdA aladby,almntdA aladby,,NA,المنتدى الأدبي,NA,1,0,1,1,0,1,2
+almnhl alSafy,almnhl alSafy,,NA,المنهل الصافي,NA,1,0,1,1,0,1,3
+almwrd alSafy,almwrd alSafy,,NA,المورد الصافي,NA,1,0,1,1,0,1,3
+almwrnn bwst,almwrnn bwst,,NA,المورنن بوست,NA,1,0,1,1,0,1,3
+almwrnn lydr,almwrnn lydr,,NA,المورنن ليدر,NA,1,0,1,1,0,1,3
+almwSl,almwSl,,NA,الموصل,NA,1,0,1,1,0,1,3
+aln,aln,,NA,الن,NA,1,0,1,1,0,1,0
+alnja7,alnja7,,NA,النجاح,NA,1,0,1,1,0,1,3
+alnKl,alnKl,,NA,النخل,NA,1,0,1,1,0,1,3
+alndym,alndym,,NA,النديم,NA,1,0,1,1,0,1,3
+alnWr0,alnWr0,,NA,النشرة,NA,1,0,1,1,0,1,3
+alnwadr,alnwadr,,NA,النوادر,NA,1,0,1,1,0,1,2
+alnyw alnywz awf dy wrld,alnyw alnywz awf dy wrld,,NA,النيو النيوز اوف دي ورلد,NA,1,0,1,1,0,1,3
+alhdaya,alhdaya,,NA,الهدايا,NA,1,0,1,1,0,1,3
+alhday0,alhday0,,NA,الهداية,NA,1,0,1,1,0,1,3
+alhlal al3Umany,alhlal al3Umany,,NA,الهلال العثماني,NA,1,0,1,1,0,1,0
+alwjdan,alwjdan,,NA,الوجدان,NA,1,0,1,1,0,1,2
+alwrdy0,alwrdy0,,NA,الوردية,NA,1,0,1,1,0,1,3
+alwrQaq,alwrQaq,,NA,الورقاء,NA,1,0,1,1,0,1,3
+alwQa53,alwQa53,,NA,الوقائع,NA,1,0,1,1,0,1,3
+alwQa53 almSry0,alwQa53 almSry0,,NA,الوقائع المصرية,NA,1,0,1,1,0,1,3
+alymn,alymn,,NA,اليمن,NA,1,0,1,1,0,1,3
+balk,balk,,NA,بالك,NA,1,0,1,1,0,1,2
+ban,ban,,NA,بان,NA,1,0,1,1,0,1,3
+bnslfanya bakt,bnslfanya bakt,,NA,بنسلفانيا باكت,NA,1,0,1,1,0,1,3
+pwl mraQlynar ynh rhbr,pwl mraQlynar ynh rhbr,,NA,پول مراقلينار ينه رهبر,NA,1,0,1,1,0,1,3
+taryK aladyan,taryK aladyan,,NA,تاريخ الأديان,NA,1,0,1,1,0,1,3
+tdrysat abtda5y0 mjmw30 sy,tdrysat abtda5y0 mjmw30 sy,,NA,تدريسات ابتدائية مجموعة سي,NA,1,0,1,1,0,1,3
+trjman,trjman,,NA,ترجمان,NA,1,0,1,1,0,1,3
+trjman 7QyQt,trjman 7QyQt,,NA,ترجمان حقيقت,NA,1,0,1,1,0,1,3
+trQy,trQy,,NA,ترقي,NA,1,0,1,1,0,1,3
+tSwf,tSwf,,NA,تصوف,NA,1,0,1,1,0,1,3
+tDmynat,tDmynat,,NA,تضمينات,NA,1,0,1,1,0,1,3
+t3awn,t3awn,,NA,تعاون,NA,1,0,1,1,0,1,2
+tfkr,tfkr,,NA,تفكر,NA,1,0,1,1,0,1,2
+tQwym wQa53,tQwym wQa53,,NA,تقويم وقائع,NA,1,0,1,1,0,1,3
+tnZymat,tnZymat,,NA,تنظيمات,NA,1,0,1,1,0,1,3
+jadalwz,jadalwz,,NA,جادالوز,NA,1,0,1,1,0,1,3
+janT0,janT0,,NA,جانطة,NA,1,0,1,1,0,1,3
+jbl 3aml,jbl 3aml,,NA,جبل عامل,NA,1,0,1,1,0,1,2
+jbl lbnan,jbl lbnan,,NA,جبل لبنان,NA,1,0,1,1,0,1,3
+jryd0 al7ars,jryd0 al7ars,,NA,جريدة الحارس,NA,1,0,1,1,0,1,3
+jryd0 alslam,jryd0 alslam,,NA,جريدة السلام,NA,1,0,1,1,0,1,3
+jryd0 byrwt,jryd0 byrwt,,NA,جريدة بيروت,NA,1,0,1,1,0,1,3
+jryd0 7wadU,jryd0 7wadU,,NA,جريدة حوادث,NA,1,0,1,1,0,1,3
+jryd0 3dly0,jryd0 3dly0,,NA,جريدة عدلية,NA,1,0,1,1,0,1,3
+jryd0 3skry0,jryd0 3skry0,,NA,جريدة عسكرية,NA,1,0,1,1,0,1,3
+jm,jm,,NA,جم,NA,1,0,1,1,0,1,3
+jhyn0,jhyn0,,NA,جهينة,NA,1,0,1,1,0,1,2
+jwrnal byrwt,jwrnal byrwt,,NA,جورنال بيروت,NA,1,0,1,1,0,1,3
+jylaQ,jylaQ,,NA,جيلاق,NA,1,0,1,1,0,1,3
+7kmt,7kmt,,NA,حكمت,NA,1,0,1,1,0,1,3
+7lb,7lb,,NA,حلب,NA,1,0,1,1,0,1,3
+7wadU aljmhwr,7wadU aljmhwr,,NA,حوادث الجمهور,NA,1,0,1,1,0,1,3
+Kan jGan,Kan jGan,,NA,خان جغان,NA,1,0,1,1,0,1,2
+Kan lihb,Kan lihb,,NA,خان لذهب,NA,1,0,1,1,0,1,2
+Krdl0 al3lwm,Krdl0 al3lwm,,NA,خردلة العلوم,NA,1,0,1,1,0,1,2
+dar alfnwn,dar alfnwn,,NA,دار الفنون,NA,1,0,1,1,0,1,3
+dlyl Gwa0 alTwab3,dlyl Gwa0 alTwab3,,NA,دليل غواة الطوابع,NA,1,0,1,1,0,1,3
+dwnyla,dwnyla,,NA,دونيلا,NA,1,0,1,1,0,1,2
+dyr alQmr,dyr alQmr,,NA,دير القمر,NA,1,0,1,1,0,1,2
+rsal0 mwQwt0 7rby0,rsal0 mwQwt0 7rby0,,NA,رسالة موقوتة حربية,NA,1,0,1,1,0,1,3
+rsmly ktab,rsmly ktab,,NA,رسملي كتاب,NA,1,0,1,1,0,1,3
+r3d,r3d,,NA,رعد,NA,1,0,1,1,0,1,2
+rwD0 alm3arf,rwD0 alm3arf,,NA,روضة المعارف,NA,1,0,1,1,0,1,3
+rwDh,rwDh,,NA,روضه,NA,1,0,1,1,0,1,2
+zhyr0 bGdad,zhyr0 bGdad,,NA,زهيرة بغداد,NA,1,0,1,1,0,1,2
+smyr alSba,smyr alSba,,NA,سمير الصبا,NA,1,0,1,1,0,1,3
+snyn,snyn,,NA,سنين,NA,1,0,1,1,0,1,3
+swry0,swry0,,NA,سورية,NA,1,0,1,1,0,1,3
+syf al7Q,syf al7Q,,NA,سيف الحق,NA,1,0,1,1,0,1,2
+Wms alm3arf,Wms alm3arf,,NA,شمس المعارف,NA,1,0,1,1,0,1,2
+Whraq,Whraq,,NA,شهراء,NA,1,0,1,1,0,1,3
+Wwra,Wwra,,NA,شورا,NA,1,0,1,1,0,1,3
+Wwray amt,Wwray amt,,NA,شوراي أمت,NA,1,0,1,1,0,1,3
+Sa5b,Sa5b,,NA,صائب,NA,1,0,1,1,0,1,2
+S7yf0 nady dar al3lwm,S7yf0 nady dar al3lwm,,NA,صحيفة نادي دار العلوم,NA,1,0,1,1,0,1,3
+SdA alWhbaq,SdA alWhbaq,,NA,صدى الشهباء,NA,1,0,1,1,0,1,3
+SdA babl,SdA babl,,NA,صدى بابل,NA,1,0,1,1,0,1,2
+SdA barys alfrnswy0,SdA barys alfrnswy0,,NA,صدى باريس الفرنسوية,NA,1,0,1,1,0,1,2
+SraT mstQym,SraT mstQym,,NA,صراط مستقيم,NA,1,0,1,1,0,1,3
+Dyaq,Dyaq,,NA,ضياء,NA,1,0,1,1,0,1,3
+Tbabt 7aDr0,Tbabt 7aDr0,,NA,طبابت حاضرة,NA,1,0,1,1,0,1,3
+Trabls alGrb,Trabls alGrb,,NA,طرابلس الغرب,NA,1,0,1,1,0,1,3
+3Umanly rsamlr jm3yty Gzth sy,3Umanly rsamlr jm3yty Gzth sy,,NA,عثمانلي رساملر جمعيتي غزته سي,NA,1,0,1,1,0,1,3
+3Sa mwsA,3Sa mwsA,,NA,عصا موسى,NA,1,0,1,1,0,1,2
+3fryt,3fryt,,NA,عفريت,NA,1,0,1,1,0,1,2
+3lm alnfs,3lm alnfs,,NA,علم النفس,NA,1,0,1,1,0,1,3
+3lwm aQtSady0 wajtma3y0 mjmw30,3lwm aQtSady0 wajtma3y0 mjmw30,,NA,علوم اقتصادية واجتماعية مجموعة,NA,1,0,1,1,0,1,3
+GydyQ,GydyQ,,NA,غيديق,NA,1,0,1,1,0,1,3
+fta0 alWrQ,fta0 alWrQ,,NA,فتاة الشرق,NA,1,0,1,1,0,1,3
+fta0 lbnan,fta0 lbnan,,NA,فتاة لبنان,NA,1,0,1,1,0,1,2
+frnkfwrt,frnkfwrt,,NA,فرنكفورت,NA,1,0,1,1,0,1,3
+Qadyn,Qadyn,,NA,قادين,NA,1,0,1,1,0,1,3
+Qazan mKbry,Qazan mKbry,,NA,قازان مخبري,NA,1,0,1,1,0,1,3
+Qr0 kwz,Qr0 kwz,,NA,قرة كوز,NA,1,0,1,1,0,1,3
+Qrh snan,Qrh snan,,NA,قره سنان,NA,1,0,1,1,0,1,3
+Qlm,Qlm,,NA,قلم,NA,1,0,1,1,0,1,3
+Qlnj,Qlnj,,NA,قلنج,NA,1,0,1,1,0,1,2
+krmh wnrmh,krmh wnrmh,,NA,كرمه ونرمه,NA,1,0,1,1,0,1,2
+kmal,kmal,,NA,كمال,NA,1,0,1,1,0,1,2
+kwmydya,kwmydya,,NA,كوميديا,NA,1,0,1,1,0,1,3
+labrys,labrys,,NA,لابريس,NA,1,0,1,1,0,1,3
+lady hwm jwrnal,lady hwm jwrnal,,NA,لادي هوم جورنال,NA,1,0,1,1,0,1,3
+laGyr,laGyr,,NA,لاغير,NA,1,0,1,1,0,1,2
+laQtSad alajtma3y,laQtSad alajtma3y,,NA,لاقتصاد الاجتماعي,NA,1,0,1,1,0,1,3
+lawmanyth,lawmanyth,,NA,لاومانيته,NA,1,0,1,1,0,1,3
+lbnan,lbnan,,NA,لبنان,NA,1,0,1,1,0,1,3
+ldyly myl,ldyly myl,,NA,لديلي ميل,NA,1,0,1,1,0,1,3
+lsan,lsan,,NA,لسان,NA,1,0,1,1,0,1,2
+lsan al7al,lsan al7al,,NA,لسان الحال,NA,1,0,1,1,0,1,3
+lsan alWrQ,lsan alWrQ,,NA,لسان الشرق,NA,1,0,1,1,0,1,3
+lsan alSdQ,lsan alSdQ,,NA,لسان الصدق,NA,1,0,1,1,0,1,2
+lTyf,lTyf,,NA,لطيف,NA,1,0,1,1,0,1,3
+lG0,lG0,,NA,لغة,NA,1,0,1,1,0,1,2
+lmQtbs,lmQtbs,,NA,لمقتبس,NA,1,0,1,1,0,1,3
+lmwrnn lydr,lmwrnn lydr,,NA,لمورنن ليدر,NA,1,0,1,1,0,1,3
+lwmanyty,lwmanyty,,NA,لومانيتي,NA,1,0,1,1,0,1,0
+mjl0 ala7kam alWr3y0,mjl0 ala7kam alWr3y0,,NA,مجلة الأحكام الشرعية,NA,1,0,1,1,0,1,3
+mjl0 alantrwbws alansan,mjl0 alantrwbws alansan,,NA,مجلة الأنتروبوس الإنسان,NA,1,0,1,1,0,1,3
+mjl0 alaSla7 alajtma3y,mjl0 alaSla7 alajtma3y,,NA,مجلة الإصلاح الاجتماعي,NA,1,0,1,1,0,1,3
+mjl0 alajtma3 aldwly0,mjl0 alajtma3 aldwly0,,NA,مجلة الاجتماع الدولية,NA,1,0,1,1,0,1,3
+mjl0 alaQtSad aldwly0,mjl0 alaQtSad aldwly0,,NA,مجلة الاقتصاد الدولية,NA,1,0,1,1,0,1,3
+mjl0 alaQtSadyyn,mjl0 alaQtSadyyn,,NA,مجلة الاقتصاديين,NA,1,0,1,1,0,1,3
+mjl0 alt3lym aldwly0,mjl0 alt3lym aldwly0,,NA,مجلة التعليم الدولية,NA,1,0,1,1,0,1,3
+mjl0 al7Qa5Q waltlfyQ,mjl0 al7Qa5Q waltlfyQ,,NA,مجلة الحقائق والتلفيق,NA,1,0,1,1,0,1,0
+mjl0 alWtaq,mjl0 alWtaq,,NA,مجلة الشتاء,NA,1,0,1,1,0,1,3
+mjl0 alWrQ,mjl0 alWrQ,,NA,مجلة الشرق,NA,1,0,1,1,0,1,3
+mjl0 alTby30 alfrnsy0,mjl0 alTby30 alfrnsy0,,NA,مجلة الطبيعة الفرنسية,NA,1,0,1,1,0,1,3
+mjl0 al3lm,mjl0 al3lm,,NA,مجلة العلم,NA,1,0,1,1,0,1,3
+mjl0 al3wam,mjl0 al3wam,,NA,مجلة العوام,NA,1,0,1,1,0,1,3
+mjl0 alQrn altas3 3Wr,mjl0 alQrn altas3 3Wr,,NA,مجلة القرن التاسع عشر,NA,1,0,1,1,0,1,3
+mjl0 alljn0 alamyrky0 alWrQy0,mjl0 alljn0 alamyrky0 alWrQy0,,NA,مجلة اللجنة الأميركية الشرقية,NA,1,0,1,1,0,1,2
+mjl0 almba7U,mjl0 almba7U,,NA,مجلة المباحث,NA,1,0,1,1,0,1,3
+mjl0 almlky0,mjl0 almlky0,,NA,مجلة الملكية,NA,1,0,1,1,0,1,3
+mjl0 almntdA aladby,mjl0 almntdA aladby,,NA,مجلة المنتدى الأدبي,NA,1,0,1,1,0,1,3
+mjl0 almwrd alSafy,mjl0 almwrd alSafy,,NA,مجلة المورد الصافي,NA,1,0,1,1,0,1,3
+mjl0 aln s al3Sry0,mjl0 aln s al3Sry0,,NA,مجلة الن س العصرية,NA,1,0,1,1,0,1,0
+mjl0 antrby0,mjl0 antrby0,,NA,مجلة انتربية,NA,1,0,1,1,0,1,3
+mjl0 jm3y0 almlaj5 al3basy0 wmkarm alaKlaQ alaslamy0,mjl0 jm3y0 almlaj5 al3basy0 wmkarm alaKlaQ alaslamy0,,NA,مجلة جمعية الملاجئ العباسية ومكارم الأخلاق الإسلامية,NA,1,0,1,1,0,1,3
+mjl0 3rfat,mjl0 3rfat,,NA,مجلة عرفات,NA,1,0,1,1,0,1,3
+mjl0 3lm alajtma3 aldwly0,mjl0 3lm alajtma3 aldwly0,,NA,مجلة علم الاجتماع الدولية,NA,1,0,1,1,0,1,3
+mjl0 mstndat altrQy,mjl0 mstndat altrQy,,NA,مجلة مستندات الترقي,NA,1,0,1,1,0,1,3
+mjl0 mSr walWrQ alfrnsy0,mjl0 mSr walWrQ alfrnsy0,,NA,مجلة مصر والشرق الفرنسية,NA,1,0,1,1,0,1,3
+mjl0 mTal3atna fy albywt,mjl0 mTal3atna fy albywt,,NA,مجلة مطالعاتنا في البيوت,NA,1,0,1,1,0,1,3
+mjmw30 abw alDya,mjmw30 abw alDya,,NA,مجموعة أبو الضيا,NA,1,0,1,1,0,1,3
+mKzn 3lwm,mKzn 3lwm,,NA,مخزن علوم,NA,1,0,1,1,0,1,3
+msamrat alW3b,msamrat alW3b,,NA,مسامرات الشعب,NA,1,0,1,1,0,1,3
+mstndat altrQy,mstndat altrQy,,NA,مستندات الترقي,NA,1,0,1,1,0,1,3
+mWrQ,mWrQ,,NA,مشرق,NA,1,0,1,1,0,1,3
+mSb7 alWrQ,mSb7 alWrQ,,NA,مصبح الشرق,NA,1,0,1,1,0,1,2
+mTal3at albywt,mTal3at albywt,,NA,مطالعات البيوت,NA,1,0,1,1,0,1,3
+mTal3atna fy albywt,mTal3atna fy albywt,,NA,مطالعاتنا في البيوت,NA,1,0,1,1,0,1,3
+mTal3atna fy bywtna,mTal3atna fy bywtna,,NA,مطالعاتنا في بيوتنا,NA,1,0,1,1,0,1,3
+mQtTf,mQtTf,,NA,مقتطف,NA,1,0,1,1,0,1,3
+mlky0,mlky0,,NA,ملكية,NA,1,0,1,1,0,1,3
+mwda mlkh sy,mwda mlkh sy,,NA,مودا ملكه سي,NA,1,0,1,1,0,1,3
+njf,njf,,NA,نجف,NA,1,0,1,1,0,1,2
+nfkr,nfkr,,NA,نفكر,NA,1,0,1,1,0,1,2
+nywywrk hrald,nywywrk hrald,,NA,نيويورك هرالد,NA,1,0,1,1,0,1,3
+wady alnyl,wady alnyl,,NA,وادي النيل,NA,1,0,1,1,0,1,3
+wjdan,wjdan,,NA,وجدان,NA,1,0,1,1,0,1,2
+wQt,wQt,,NA,وقت,NA,1,0,1,1,0,1,3
+yky aQdam,yky aQdam,,NA,يكي إقدام,NA,1,0,1,1,0,1,3
+yky tSwyr afkar,yky tSwyr afkar,,NA,يكي تصوير أفكار,NA,1,0,1,1,0,1,3
+yky kwh zh,yky kwh zh,,NA,يكي كوه زه,NA,1,0,1,1,0,1,3
+yky m7yT alm3arf Gzth Sy Gzth sy,yky m7yT alm3arf Gzth Sy Gzth sy,,NA,يكي محيط المعارف غزته صي غزته سي,NA,1,0,1,1,0,1,3
+yky mwdh,yky mwdh,,NA,يكي موده,NA,1,0,1,1,0,1,2
+yldyrm byn alnhryn,yldyrm byn alnhryn,,NA,يلديرم بين النهرين,NA,1,0,1,1,0,1,2
+alQbs,alQbs,,NA,القبس,NA,1,0,1,1,0,1,3
+tnwyr,tnwyr,,NA,تنوير,NA,1,0,1,1,0,1,2
+472450345,472450345,,,,,0,97,97,0,191,191,2
+4770057679,4770057679,,,,,0,362,362,0,685,685,3
+644997575,644997575,,,,,0,36,36,0,96,96,0
+792756327,792756327,,,,,0,12,12,0,15,15,1
