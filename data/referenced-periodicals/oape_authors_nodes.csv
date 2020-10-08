@@ -1,0 +1,322 @@
+Id,Label,timeset,author.id.oape,author.id.viaf,author.name,author.birth,author.death,Type,indegree,outdegree,Degree,weighted indegree,weighted outdegree,Weighted Degree,modularity_class,nodecolor-multimode,author.name.ijmes,author.name.transliterated
+3,3,,7,NA,ع,NA,NA,Person,0,1,101,0,4,624,0,red,3,3
+3. b,3. b,,122,NA,ع. ب,NA,NA,Person,0,1,101,0,1,159,0,red,3. b,3. b
+3. d,3. d,,3727,NA,ع. د,NA,NA,Person,0,1,101,0,1,159,0,red,3. d,3. d
+3.n,3.n,,1949,NA,ع.ن,NA,NA,Person,0,1,51,0,1,151,1,red,3.n,3.n
+3. r,3. r,,3728,NA,ع. ر,NA,NA,Person,0,1,101,0,1,159,0,red,3. r,3. r
+3 3,3 3,,120,NA,ع ع,NA,NA,Person,0,1,101,0,1,159,0,red,3 3,3 3
+3arf afndy alm7mljy,3arf afndy alm7mljy,,3731,NA,عارف أفندي المحملجي,NA,NA,Person,0,1,101,0,1,159,0,red,3arf afndy alm7mljy,3arf afndy alm7mljy
+3arf alm7majy,3arf alm7majy,,3733,NA,عارف المحماجي,NA,NA,Person,0,1,101,0,1,159,0,red,3arf alm7majy,3arf alm7majy
+3arf alm7mljy,3arf alm7mljy,,3734,NA,عارف المحملجي,NA,NA,Person,0,1,101,0,1,159,0,red,3arf alm7mljy,3arf alm7mljy
+3arf  m7mljy,3arf  m7mljy,,915,NA,عارف  محملجي,NA,NA,Person,0,1,101,0,1,159,0,red,3arf  m7mljy,3arf  m7mljy
+3bd al7lym afndy 7lmy,3bd al7lym afndy 7lmy,,NA,NA,عبد الحليم أفندي حلمي,NA,NA,Person,0,1,137,0,1,370,2,red,3bd al7lym afndy 7lmy,3bd al7lym afndy 7lmy
+3bd al7myd  alkatb,3bd al7myd  alkatb,,497,27190968,عبد الحميد  الكاتب,NA,0750-01-01,Person,0,1,137,0,2,738,2,red,3bd al7myd  alkatb,3bd al7myd  alkatb
+3bd al7myd  alraf3y,3bd al7myd  alraf3y,,407,280763829,عبد الحميد  الرافعي,1859,1932,Person,0,1,101,0,1,159,0,red,3bd al7myd  alraf3y,3bd al7myd  alraf3y
+3bd alfta7 alskry,3bd alfta7 alskry,,NA,NA,عبد الفتاح السكري,NA,NA,Person,0,1,137,0,1,370,2,red,3bd alfta7 alskry,3bd alfta7 alskry
+3bd alfta7 alskry alrkaby,3bd alfta7 alskry alrkaby,,182,NA,عبد الفتاح السكري الركابي,NA,NA,Person,0,1,137,0,1,370,2,red,3bd alfta7 alskry alrkaby,3bd alfta7 alskry alrkaby
+3bd allh adyb alm3rwf,3bd allh adyb alm3rwf,,3766,NA,عبد الله أديب المعروف,NA,NA,Person,0,1,101,0,1,159,0,red,3bd allh adyb alm3rwf,3bd allh adyb alm3rwf
+3bd allh  fkry,3bd allh  fkry,,845,90073709,عبد الله  فكري,1834,1890,Person,0,1,137,0,1,370,2,red,3bd allh  fkry,3bd allh  fkry
+3bd allh  mKlS,3bd allh  mKlS,,917,299037057,عبد الله  مخلص,1878,1947,Person,0,1,137,0,5,1830,2,red,3bd allh  mKlS,3bd allh  mKlS
+3bd allTyf  albGdady,3bd allTyf  albGdady,,312,NA,عبد اللطيف  البغدادي,NA,NA,Person,0,1,101,0,1,159,0,red,3bd allTyf  albGdady,3bd allTyf  albGdady
+3bd allTyf Unyan,3bd allTyf Unyan,,3765,NA,عبد اللطيف ثنيان,NA,NA,Person,0,1,51,0,2,300,1,red,3bd allTyf Unyan,3bd allTyf Unyan
+3bd alm3yn  KlwSy,3bd alm3yn  KlwSy,,657,NA,عبد المعين  خلوصي,NA,NA,Person,0,1,137,0,1,370,2,red,3bd alm3yn  KlwSy,3bd alm3yn  KlwSy
+3bd alm7sn  alkaZmy,3bd alm7sn  alkaZmy,,500,24886545,عبد المحسن  الكاظمي,1865,1935,Person,0,1,137,0,1,370,2,red,3bd alm7sn  alkaZmy,3bd alm7sn  alkaZmy
+3bd almjyd alQSab,3bd almjyd alQSab,,3771,NA,عبد المجيد القصاب,NA,NA,Person,0,1,101,0,2,316,0,red,3bd almjyd alQSab,3bd almjyd alQSab
+3bd almjyd QSab,3bd almjyd QSab,,3772,NA,عبد المجيد قصاب,NA,NA,Person,0,1,101,0,1,159,0,red,3bd almjyd QSab,3bd almjyd QSab
+3bd alQadr alKwjh,3bd alQadr alKwjh,,3762,NA,عبد القادر الخوجه,NA,NA,Person,0,1,101,0,1,159,0,red,3bd alQadr alKwjh,3bd alQadr alKwjh
+3bd alQadr  almbark,3bd alQadr  almbark,,516,NA,عبد القادر  المبارك,NA,NA,Person,0,1,101,0,2,316,0,red,3bd alQadr  almbark,3bd alQadr  almbark
+3bd alQadr  almGrby,3bd alQadr  almGrby,,536,118432135,عبد القادر  المغربي,1867,1956-06-07,Person,0,1,137,0,7,2548,2,red,3bd alQadr  almGrby,3bd alQadr  almGrby
+3bd alQadr bn m7md almbark al7sny aljza5ry,3bd alQadr bn m7md almbark al7sny aljza5ry,,3764,NA,عبد القادر بن محمد المبارك الحسني الجزائري,NA,NA,Person,0,1,101,0,1,159,0,red,3bd alQadr bn m7md almbark al7sny aljza5ry,3bd alQadr bn m7md almbark al7sny aljza5ry
+3bd alQadr  kywan,3bd alQadr  kywan,,891,NA,عبد القادر  كيوان,NA,NA,Person,0,1,101,0,2,316,0,red,3bd alQadr  kywan,3bd alQadr  kywan
+3bd alr7mn  albnaq,3bd alr7mn  albnaq,,1980,267152261514217180001,عبد الرحمن  البناء,1882,1952,Person,0,1,51,0,2,300,1,red,3bd alr7mn  albnaq,3bd alr7mn  albnaq
+3bd alr7mn  alQSar,3bd alr7mn  alQSar,,492,NA,عبد الرحمن  القصار,1863,1931,Person,0,1,101,0,10,1500,0,red,3bd alr7mn  alQSar,3bd alr7mn  alQSar
+3bd alr7mn  Whbndr,3bd alr7mn  Whbndr,,766,65658340,عبد الرحمن  شهبندر,1882-01-01,1940-01-01,Person,0,1,137,0,4,1468,2,red,3bd alr7mn  Whbndr,3bd alr7mn  Whbndr
+3bd alr7ym afndy Qlylat,3bd alr7ym afndy Qlylat,,2945,NA,عبد الرحيم أفندي قليلات,NA,NA,Person,0,1,101,0,1,159,0,red,3bd alr7ym afndy Qlylat,3bd alr7ym afndy Qlylat
+3bd alwhab,3bd alwhab,,184,NA,عبد الوهاب,NA,NA,Person,0,1,137,0,3,1104,2,red,3bd alwhab,3bd alwhab
+3bd alwhab alWrk0,3bd alwhab alWrk0,,3775,NA,عبد الوهاب الشركة,NA,NA,Person,0,1,101,0,1,159,0,red,3bd alwhab alWrk0,3bd alwhab alWrk0
+3bd mSTfA,3bd mSTfA,,3778,NA,عبد مصطفى,NA,NA,Person,0,1,101,0,1,159,0,red,3bd mSTfA,3bd mSTfA
+3fyf0 mSwb3,3fyf0 mSwb3,,NA,NA,عفيفة مصوبع,NA,NA,Person,0,1,39,0,1,62,3,red,3fyf0 mSwb3,3fyf0 mSwb3
+3 m,3 m,,121,NA,ع م,NA,NA,Person,0,1,101,0,1,159,0,red,3 m,3 m
+3manw5yl ft7 allh 3manw5yl,3manw5yl ft7 allh 3manw5yl,,2089,NA,عمانوئيل فتح الله عمانوئيل,NA,NA,Person,0,1,51,0,3,447,1,red,3manw5yl ft7 allh 3manw5yl,3manw5yl ft7 allh 3manw5yl
+3raQy,3raQy,,2947,NA,عراقي,NA,NA,Person,0,1,51,0,3,447,1,red,3raQy,3raQy
+3rby mtbdٍ,3rby mtbdٍ,,NA,NA,عربي متبدٍ,NA,NA,Person,0,1,51,0,1,151,1,red,3rby mtbdٍ,3rby mtbdٍ
+3W,3W,,2058,NA,عش,NA,NA,Person,0,1,51,0,1,151,1,red,3W,3W
+3ysA  askndr  alm3lwf,ʿĪsā Iskandar al-Maʿlūf,,533,40250618,عيسى  اسكندر  المعلوف,1869-04-11,1956-07-02,Person,0,2,175,0,22,7142,2,red,ʿĪsā Iskandar al-Maʿlūf,3ysA  askndr  alm3lwf
+3z aldyn WyK alsrwjy0,3z aldyn WyK alsrwjy0,,186,623145857088222921832,عز الدين شيخ السروجية,1889,1966,Person,0,1,137,0,1,370,2,red,3z aldyn WyK alsrwjy0,3z aldyn WyK alsrwjy0
+7afZ  abrahym,7afZ  abrahym,,245,32410755,حافظ  إبراهيم,1871-04-24,1932-06-21,Person,0,1,137,0,7,2548,2,red,7afZ  abrahym,7afZ  abrahym
+7byb  jrjy  k7al0,7byb  jrjy  k7al0,,874,26023001,حبيب  جرجي  كحالة,NA,NA,Person,0,1,137,0,2,738,2,red,7byb  jrjy  k7al0,7byb  jrjy  k7al0
+7lym  abrahym  dmws,7lym  abrahym  dmws,,1610,NA,حليم  إبراهيم  دموس,NA,NA,Person,0,1,39,0,1,62,3,red,7lym  abrahym  dmws,7lym  abrahym  dmws
+7na 7mSy,7na 7mSy,,NA,NA,حنا حمصي,NA,NA,Person,0,1,39,0,1,62,3,red,7na 7mSy,7na 7mSy
+7na anTwn jrjs,7na anTwn jrjs,,1616,NA,حنا أنطون جرجس,NA,NA,Person,0,1,51,0,1,151,1,red,7na anTwn jrjs,7na anTwn jrjs
+7na myKa alrsam,7na myKa alrsam,,1624,NA,حنا ميخا الرسام,NA,NA,Person,0,1,51,0,1,151,1,red,7na myKa alrsam,7na myKa alrsam
+7nyf0,7nyf0,,3619,NA,حنيفة,NA,NA,Person,0,1,101,0,1,159,0,red,7nyf0,7nyf0
+7Qy  al3Zm,7Qy  al3Zm,,463,73713049,حقي  العظم,1864-01-01,1955-01-01,Person,0,1,137,0,1,370,2,red,7Qy  al3Zm,7Qy  al3Zm
+7sn 3bd alhady,7sn 3bd alhady,,NA,NA,حسن عبد الهادي,NA,NA,Person,0,1,137,0,1,370,2,red,7sn 3bd alhady,7sn 3bd alhady
+7sny 3bd alhady,7sny 3bd alhady,,96,NA,حسني عبد الهادي,NA,NA,Person,0,1,137,0,2,738,2,red,7sny 3bd alhady,7sny 3bd alhady
+7syn  wSfy  rDa,7syn  wSfy  rDa,,688,356146152116005212782,حسين  وصفي  رضا,1882,1911,Person,0,1,137,0,2,738,2,red,7syn  wSfy  rDa,7syn  wSfy  rDa
+a . 7,a . 7,,1297,NA,ا . ح,NA,NA,Person,0,1,101,0,1,159,0,red,a . 7,a . 7
+a. j,A.J.,,3,NA,ا. ج,NA,NA,Person,0,2,232,0,3,897,2,red,A.J.,a. j
+a. z. a,a. z. a,,10,NA,أ. ز. أ,NA,NA,Person,0,1,137,0,1,370,2,red,a. z. a,a. z. a
+a7md 3byd,a7md 3byd,,3118,NA,أحمد عبيد,NA,NA,Person,0,1,101,0,1,159,0,red,a7md 3byd,a7md 3byd
+a7md  abrahym  KrbwTly,a7md  abrahym  KrbwTly,,654,NA,أحمد  إبراهيم  خربوطلي,NA,NA,Person,0,1,137,0,1,370,2,red,a7md  abrahym  KrbwTly,a7md  abrahym  KrbwTly
+a7md afndy nsym,a7md afndy nsym,,NA,NA,احمد أفندي نسيم,NA,NA,Person,0,1,137,0,1,370,2,red,a7md afndy nsym,a7md afndy nsym
+a7md  albaWa,a7md  albaWa,,65,NA,احمد  الباشا,NA,NA,Person,0,1,101,0,3,471,0,red,a7md  albaWa,a7md  albaWa
+a7md aljwbry,a7md aljwbry,,2883,NA,أحمد الجوبري,NA,NA,Person,0,1,101,0,3,471,0,red,a7md aljwbry,a7md aljwbry
+a7md  alSabwny,a7md  alSabwny,,451,NA,أحمد  الصابوني,NA,NA,Person,0,1,101,0,1,159,0,red,a7md  alSabwny,a7md  alSabwny
+a7md  kmal,a7md  kmal,,884,NA,أحمد  كمال,NA,NA,Person,0,1,137,0,1,370,2,red,a7md  kmal,a7md  kmal
+a7md  m7rm,Aḥmad Muḥarram,,910,60500457,أحمد  محرم,1877,1945,Person,0,2,232,0,4,1054,0,red,Aḥmad Muḥarram,a7md  m7rm
+a7md  rDa,a7md  rDa,,687,97055208,أحمد  رضا,1872-06-04,1953-07-07,Person,0,1,137,0,3,1104,2,red,a7md  rDa,a7md  rDa
+a7md rfyQ,a7md rfyQ,,1062,NA,أحمد رفيق,NA,NA,Person,0,1,51,0,1,151,1,red,a7md rfyQ,a7md rfyQ
+a7md  tymwr,a7md  tymwr,,613,19737865,أحمد  تيمور,1871-11-06,1930,Person,0,1,137,0,9,3258,2,red,a7md  tymwr,a7md  tymwr
+a7md  WwQy,a7md  WwQy,,768,7540373,أحمد  شوقي,1868-12-25,1932-10-23,Person,0,1,137,0,1,370,2,red,a7md  WwQy,a7md  WwQy
+a7md  zky,a7md  zky,,707,49218655,أحمد  زكي,1866-05-26,1934-07-06,Person,0,1,137,0,7,2548,2,red,a7md  zky,a7md  zky
+abn ala3raby |abn ala3raby,abn ala3raby |abn ala3raby,,45,305409071,ابن الأعرابي |ابن الأعرابي,0767,0846,Person,0,1,137,0,1,370,2,red,abn ala3raby |abn ala3raby,abn ala3raby |abn ala3raby
+abn alamyr m7md s3yd|m7md s3yd |m7md s3yd,abn alamyr m7md s3yd|m7md s3yd |m7md s3yd,,NA,NA,ابن الأمير محمد سعيد|محمد سعيد |محمد سعيد,NA,NA,Person,0,1,101,0,1,159,0,red,abn alamyr m7md s3yd|m7md s3yd |m7md s3yd,abn alamyr m7md s3yd|m7md s3yd |m7md s3yd
+abn almQf3,abn almQf3,,185,89743196,ابن المقفع,0724-01-01,0759-01-01,Person,0,1,137,0,4,1468,2,red,abn almQf3,abn almQf3
+abn kmal baWa,abn kmal baWa,,NA,NA,ابن كمال باشا,NA,NA,Person,0,1,137,0,1,370,2,red,abn kmal baWa,abn kmal baWa
+abn tymy0,abn tymy0,,168,12338225,ابن تيمية,1263-01-22,1328-09-26,Person,0,1,101,0,1,159,0,red,abn tymy0,abn tymy0
+abrahym  7lmy  al3mr,Ibrāhīm Ḥilmī al-ʿAmr,,647,NA,إبراهيم  حلمي  العمر,1890,1942,Person,0,2,183,0,22,5065,1,red,Ibrāhīm Ḥilmī al-ʿAmr,abrahym  7lmy  al3mr
+abrahym  Klyl  mrdm bk,abrahym  Klyl  mrdm bk,,923,NA,إبراهيم  خليل  مردم بك,NA,NA,Person,0,1,101,0,7,1071,0,red,abrahym  Klyl  mrdm bk,abrahym  Klyl  mrdm bk
+abrahym  mnyb  albajjy,abrahym  mnyb  albajjy,,1205,NA,إبراهيم  منيب  الباججي,NA,NA,Person,0,1,51,0,13,1807,1,red,abrahym  mnyb  albajjy,abrahym  mnyb  albajjy
+abw alDya,Abū al-Ḍiyā,,1,NA,أبو الضيا,NA,NA,Person,0,2,232,0,4,841,0,red,Abū al-Ḍiyā,abw alDya
+abw alm7asn m7md 7sn,abw alm7asn m7md 7sn,,1023,NA,أبو المحاسن محمد حسن,NA,NA,Person,0,1,51,0,1,151,1,red,abw alm7asn m7md 7sn,abw alm7asn m7md 7sn
+abw als3wd mrad,abw als3wd mrad,,63,NA,ابو السعود مراد,NA,NA,Person,0,1,101,0,1,159,0,red,abw als3wd mrad,abw als3wd mrad
+abw alysr abrahym bn m7md bn almdbr,abw alysr abrahym bn m7md bn almdbr,,NA,NA,أبو اليسر ابراهيم بن محمد بن المدبر,NA,NA,Person,0,1,137,0,1,370,2,red,abw alysr abrahym bn m7md bn almdbr,abw alysr abrahym bn m7md bn almdbr
+aby 7amd alGzaly,aby 7amd alGzaly,,3052,NA,أبي حامد الغزالي,NA,NA,Person,0,1,51,0,1,151,1,red,aby 7amd alGzaly,aby 7amd alGzaly
+al7syn bn almSTfA al7lby,al7syn bn almSTfA al7lby,,NA,NA,الحسين بن المصطفى الحلبي,NA,NA,Person,0,1,137,0,1,370,2,red,al7syn bn almSTfA al7lby,al7syn bn almSTfA al7lby
+alab lwys alkrmly,alab lwys alkrmly,,3227,NA,الأب لويس الكرملي,NA,NA,Person,0,1,51,0,1,151,1,red,alab lwys alkrmly,alab lwys alkrmly
+alabyl nrsys Sa5Gyan,alabyl nrsys Sa5Gyan,,1306,NA,الأبيل نرسيس صائغيان,NA,NA,Person,0,1,51,0,1,151,1,red,alabyl nrsys Sa5Gyan,alabyl nrsys Sa5Gyan
+alastai aldktwr aGnaz Gwldzyhr,alastai aldktwr aGnaz Gwldzyhr,,3237,NA,الأستاذ الدكتور اغناز غولدزيهر,NA,NA,Person,0,1,51,0,1,151,1,red,alastai aldktwr aGnaz Gwldzyhr,alastai aldktwr aGnaz Gwldzyhr
+alblKy,alblKy,,316,2147904944379090892,البلخي,0849,0934-01-01,Person,0,1,137,0,2,738,2,red,alblKy,alblKy
+albr ksbrKan,albr ksbrKan,,3272,NA,البر كسبرخان,NA,NA,Person,0,1,51,0,2,300,1,red,albr ksbrKan,albr ksbrKan
+albrsym,albrsym,,303,NA,البرسيم,NA,NA,Person,0,1,137,0,1,370,2,red,albrsym,albrsym
+aldjyly,aldjyly,,NA,NA,الدجيلي,NA,NA,Person,0,1,51,0,1,151,1,red,aldjyly,aldjyly
+aldktwr bwrtw,aldktwr bwrtw,,NA,NA,الدكتور بورتو,NA,NA,Person,0,1,137,0,1,370,2,red,aldktwr bwrtw,aldktwr bwrtw
+aldktwr fyaD alKTyb,aldktwr fyaD alKTyb,,NA,NA,الدكتور فياض الخطيب,NA,NA,Person,0,1,39,0,1,62,3,red,aldktwr fyaD alKTyb,aldktwr fyaD alKTyb
+aldktwrjak amyw,aldktwrjak amyw,,3299,NA,الدكتورجاك آميو,NA,NA,Person,0,1,51,0,1,151,1,red,aldktwrjak amyw,aldktwrjak amyw
+aldktwr njyb k7yl,aldktwr njyb k7yl,,NA,NA,الدكتور نجيب كحيل,NA,NA,Person,0,1,39,0,1,62,3,red,aldktwr njyb k7yl,aldktwr njyb k7yl
+aljnral brykwla,aljnral brykwla,,3273,NA,الجنرال بريكولا,NA,NA,Person,0,1,101,0,1,159,0,red,aljnral brykwla,aljnral brykwla
+almGrby,almGrby,,230,NA,المغربي,NA,NA,Person,0,1,137,0,1,370,2,red,almGrby,almGrby
+almsyw anTwan kabatwn,almsyw anTwan kabatwn,,870,73956120,المسيو انطوان كاباتون,1863-12-11,1942-11-25,Person,0,1,137,0,2,738,2,red,almsyw anTwan kabatwn,almsyw anTwan kabatwn
+almsywjbra5yl mdyna,almsywjbra5yl mdyna,,3488,NA,المسيوجبرائيل مدينا,NA,NA,Person,0,1,137,0,1,370,2,red,almsywjbra5yl mdyna,almsywjbra5yl mdyna
+alsyd 3bd alQadr al3bady,alsyd 3bd alQadr al3bady,,NA,NA,السيد عبد القادر العبادي,NA,NA,Person,0,1,137,0,1,370,2,red,alsyd 3bd alQadr al3bady,alsyd 3bd alQadr al3bady
+alsyd3bd alQadr almbark aljza5ry,alsyd3bd alQadr almbark aljza5ry,,3330,NA,السيدعبد القادر المبارك الجزائري,NA,NA,Person,0,1,101,0,1,159,0,red,alsyd3bd alQadr almbark aljza5ry,alsyd3bd alQadr almbark aljza5ry
+alsyd m7md alKDr,alsyd m7md alKDr,,NA,NA,السيد محمد الخضر,NA,NA,Person,0,1,137,0,1,370,2,red,alsyd m7md alKDr,alsyd m7md alKDr
+alsyd Sdr aldyn abw m7md al7sn al3amly,alsyd Sdr aldyn abw m7md al7sn al3amly,,3021,NA,السيد صدر الدين أبو محمد الحسن العاملي,NA,NA,Person,0,1,51,0,1,151,1,red,alsyd Sdr aldyn abw m7md al7sn al3amly,alsyd Sdr aldyn abw m7md al7sn al3amly
+alsywTy,alsywTy,,743,90051632,السيوطي,1445-10-03,1505-10-18,Person,0,1,101,0,1,159,0,red,alsywTy,alsywTy
+alWmas frnsys awGsTyn jbran,alWmas frnsys awGsTyn jbran,,3345,NA,الشماس فرنسيس اوغسطين جبران,NA,NA,Person,0,1,51,0,1,151,1,red,alWmas frnsys awGsTyn jbran,alWmas frnsys awGsTyn jbran
+alWyK3arf afndy alm7mljy,alWyK3arf afndy alm7mljy,,3394,NA,الشيخعارف افندي المحملجي,NA,NA,Person,0,1,101,0,1,159,0,red,alWyK3arf afndy alm7mljy,alWyK3arf afndy alm7mljy
+alWyK7sn afndy alasTwany,alWyK7sn afndy alasTwany,,3377,NA,الشيخحسن أفندي الأسطواني,NA,NA,Person,0,1,101,0,1,159,0,red,alWyK7sn afndy alasTwany,alWyK7sn afndy alasTwany
+alWyKa7md afndy alm7mSany| m7md  raGb  TbaK,alWyKa7md afndy alm7mSany| m7md  raGb  TbaK,,3354,NA,الشيخأحمد أفندي المحمصاني| محمد  راغب  طباخ,NA,NA,Person,0,1,101,0,1,159,0,red,alWyKa7md afndy alm7mSany| m7md  raGb  TbaK,alWyKa7md afndy alm7mSany| m7md  raGb  TbaK
+alWyK alsyd almky,alWyK alsyd almky,,3372,NA,الشيخ السيد المكي,NA,NA,Person,0,1,101,0,1,159,0,red,alWyK alsyd almky,alWyK alsyd almky
+alWyKm7md as7aQ alkWmyry,alWyKm7md as7aQ alkWmyry,,3423,NA,الشيخمحمد اسحاق الكشميري,NA,NA,Person,0,1,101,0,1,159,0,red,alWyKm7md as7aQ alkWmyry,alWyKm7md as7aQ alkWmyry
+alWyKm7mwd afndy al3Tar,alWyKm7mwd afndy al3Tar,,3434,NA,الشيخمحمود افندي العطار,NA,NA,Person,0,1,101,0,1,159,0,red,alWyKm7mwd afndy al3Tar,alWyKm7mwd afndy al3Tar
+alWyKmSTfA afndy nja| mSTfA  nja,alWyKmSTfA afndy nja| mSTfA  nja,,3438,NA,الشيخمصطفى أفندي نجا| مصطفى  نجا,NA,NA,Person,0,1,101,0,1,159,0,red,alWyKmSTfA afndy nja| mSTfA  nja,alWyKmSTfA afndy nja| mSTfA  nja
+alWyK rDy aldyn m7md alQzwyny,alWyK rDy aldyn m7md alQzwyny,,NA,NA,الشيخ رضي الدين محمد القزويني,NA,NA,Person,0,1,137,0,1,370,2,red,alWyK rDy aldyn m7md alQzwyny,alWyK rDy aldyn m7md alQzwyny
+alWyK rDy aldyn m7md alQzwyny| m7mwd  Wkry  alalwsy,alWyK rDy aldyn m7md alQzwyny| m7mwd  Wkry  alalwsy,,NA,NA,الشيخ رضي الدين محمد القزويني| محمود  شكري  الآلوسي,NA,NA,Person,0,1,137,0,1,370,2,red,alWyK rDy aldyn m7md alQzwyny| m7mwd  Wkry  alalwsy,alWyK rDy aldyn m7md alQzwyny| m7mwd  Wkry  alalwsy
+alWyK Wbly aln3many,alWyK Wbly aln3many,,NA,NA,الشيخ شبلي النعماني,NA,NA,Person,0,1,137,0,1,370,2,red,alWyK Wbly aln3many,alWyK Wbly aln3many
+alyas  3Ta allh,alyas  3Ta allh,,2841,167736381,الياس  عطا الله,1950,NA,Person,0,1,39,0,2,122,3,red,alyas  3Ta allh,alyas  3Ta allh
+amyn  ry7any,amyn  ry7any,,698,17374300,أمين  ريحاني,1876-11-24,1940-09-13,Person,0,1,137,0,3,1104,2,red,amyn  ry7any,amyn  ry7any
+amyn  Zahr  Kyr allh,amyn  Zahr  Kyr allh,,661,305215014,أمين  ظاهر  خير الله,1948,1948,Person,0,1,137,0,1,370,2,red,amyn  Zahr  Kyr allh,amyn  Zahr  Kyr allh
+as3af  alnWaWyby,as3af  alnWaWyby,,559,51537156,إسعاف  النشاشيبي,NA,NA,Person,0,1,137,0,1,370,2,red,as3af  alnWaWyby,as3af  alnWaWyby
+asma3yl  Sbry,asma3yl  Sbry,,777,45752632,إسماعيل  صبري,1854,1923,Person,0,1,137,0,1,370,2,red,asma3yl  Sbry,asma3yl  Sbry
+asma bllm3,asma bllm3,,NA,NA,اسما بللمع,NA,NA,Person,0,1,39,0,1,62,3,red,asma bllm3,asma bllm3
+asma  sywr,asma  sywr,,2840,NA,اسما  سيور,NA,NA,Person,0,1,39,0,1,62,3,red,asma  sywr,asma  sywr
+astyr mwayal,astyr mwayal,,NA,NA,استير موايال,NA,NA,Person,0,1,39,0,1,62,3,red,astyr mwayal,astyr mwayal
+b,b,,3530,NA,ب,NA,NA,Person,0,1,101,0,1,159,0,red,b,b
+bawlw lwmbrwzw,bawlw lwmbrwzw,,901,204498809,باولو لومبروزو,NA,NA,Person,0,1,137,0,1,370,2,red,bawlw lwmbrwzw,bawlw lwmbrwzw
+bwls  alKwly,bwls  alKwly,,390,305214783,بولس  الخولي,1876,1948,Person,0,1,137,0,1,370,2,red,bwls  alKwly,bwls  alKwly
+bwls W7adh,bwls W7adh,,NA,NA,بولس شحاده,NA,NA,Person,0,1,39,0,1,62,3,red,bwls W7adh,bwls W7adh
+bwl yswn| 3z aldyn WyK alsrwjy0,bwl yswn| 3z aldyn WyK alsrwjy0,,NA,NA,بول يسون| عز الدين شيخ السروجية,NA,NA,Person,0,1,137,0,1,370,2,red,bwl yswn| 3z aldyn WyK alsrwjy0,bwl yswn| 3z aldyn WyK alsrwjy0
+dawd ftw,dawd ftw,,4092,NA,داود فتو,1865,1921,Person,0,1,51,0,1,151,1,red,dawd ftw,dawd ftw
+dktwr fylks rynwl,dktwr fylks rynwl,,NA,NA,دكتور فيلكس رينول,NA,NA,Person,0,1,137,0,1,370,2,red,dktwr fylks rynwl,dktwr fylks rynwl
+dktwr fylyks rynywl,dktwr fylyks rynywl,,701,NA,دكتور فيليكس رينيول,NA,NA,Person,0,1,137,0,1,370,2,red,dktwr fylyks rynywl,dktwr fylyks rynywl
+f,f,,NA,NA,ف,NA,NA,Person,0,1,137,0,1,370,2,red,f,f
+fars  alKwry,fars  alKwry,,386,30478485,فارس  الخوري,1873,1962,Person,0,1,137,0,4,1468,2,red,fars  alKwry,fars  alKwry
+fars alnjar,fars alnjar,,3823,NA,فارس النجار,NA,NA,Person,0,1,101,0,2,316,0,red,fars alnjar,fars alnjar
+fars  fyaD,fars  fyaD,,853,NA,فارس  فياض,NA,NA,Person,0,1,137,0,1,370,2,red,fars  fyaD,fars  fyaD
+flyb s3d,flyb s3d,,NA,NA,فليب سعد,NA,NA,Person,0,1,39,0,1,62,3,red,flyb s3d,flyb s3d
+flyks  fars,flyks  fars,,2827,57546984,فليكس  فارس,1882,1939-06-27,Person,0,1,39,0,1,62,3,red,flyks  fars,flyks  fars
+foad  3bd almjyd,foad  3bd almjyd,,2116,NA,فؤاد  عبد المجيد,NA,NA,Person,0,1,51,0,1,151,1,red,foad  3bd almjyd,foad  3bd almjyd
+foad  alKTyb,foad  alKTyb,,374,300091608,فؤاد  الخطيب,1880,1957,Person,0,1,101,0,1,159,0,red,foad  alKTyb,foad  alKTyb
+fryd0 hanm,fryd0 hanm,,2838,NA,فريدة هانم,NA,NA,Person,0,1,39,0,1,62,3,red,fryd0 hanm,fryd0 hanm
+frydyk byasy,frydyk byasy,,NA,NA,فريديك بياسي,NA,NA,Person,0,1,137,0,1,370,2,red,frydyk byasy,frydyk byasy
+fz3  slmA,fz3  slmA,,2836,NA,فزع  سلمى,NA,NA,Person,0,1,39,0,1,62,3,red,fz3  slmA,fz3  slmA
+hb0 aldyn alWhrstany |hb0 aldyn alWhrstany,hb0 aldyn alWhrstany |hb0 aldyn alWhrstany,,2395,NA,هبة الدين الشهرستاني |هبة الدين الشهرستاني,NA,NA,Person,0,1,51,0,1,151,1,red,hb0 aldyn alWhrstany |hb0 aldyn alWhrstany,hb0 aldyn alWhrstany |hb0 aldyn alWhrstany
+hnry lafdan,hnry lafdan,,NA,NA,هنري لافدان,NA,NA,Person,0,1,137,0,1,370,2,red,hnry lafdan,hnry lafdan
+hnry lyWtnbrjh,hnry lyWtnbrjh,,NA,NA,هنري ليشتنبرجه,NA,NA,Person,0,1,137,0,1,370,2,red,hnry lyWtnbrjh,hnry lyWtnbrjh
+hـ r K,hـ r K,,4058,NA,هـ ر خ,NA,NA,Person,0,1,101,0,1,159,0,red,hـ r K,hـ r K
+j,j,,NA,NA,ج,NA,NA,Person,0,1,137,0,2,738,2,red,j,j
+j  .  D,j  .  D,,234,NA,ج  .  ض,NA,NA,Person,0,1,137,0,1,370,2,red,j  .  D,j  .  D
+j.      S.,j.      S.,,216,NA,ج.      ص.,NA,NA,Person,0,1,137,0,3,1104,2,red,j.      S.,j.      S.
+j3fr bn Wms alKlaf0,j3fr bn Wms alKlaf0,,3580,NA,جعفر بن شمس الخلافة,NA,NA,Person,0,1,101,0,2,316,0,red,j3fr bn Wms alKlaf0,j3fr bn Wms alKlaf0
+jan lahwr,jan lahwr,,NA,NA,جان لاهور,NA,NA,Person,0,1,137,0,1,370,2,red,jan lahwr,jan lahwr
+jmal aldyn  alQasmy,jmal aldyn  alQasmy,,482,93607460,جمال الدين  القاسمي,1866-10-01,1914-04-18,Person,0,1,137,0,8,2904,2,red,jmal aldyn  alQasmy,jmal aldyn  alQasmy
+jmyl  SdQy  alzhawy,jmyl  SdQy  alzhawy,,418,61517780,جميل  صدقي  الزهاوي,1863-06-18,1936-02-24,Person,0,1,51,0,1,151,1,red,jmyl  SdQy  alzhawy,jmyl  SdQy  alzhawy
+"John
+                            Wortabet","John
+                            Wortabet",,981,51840827,"John
+                            Wortabet",1827,1908,Person,0,1,137,0,4,1468,2,red,"John
+                            Wortabet","John
+                            Wortabet"
+j  Q,j  Q,,857,NA,ج  ق,NA,NA,Person,0,1,137,0,1,370,2,red,j  Q,j  Q
+jrjs  twma,jrjs  twma,,2846,NA,جرجس  توما,NA,NA,Person,0,1,39,0,2,122,3,red,jrjs  twma,jrjs  twma
+jrjy  7dad,jrjy  7dad,,632,305214884,جرجي  حداد,NA,1916-05-06,Person,0,1,137,0,7,2548,2,red,jrjy  7dad,jrjy  7dad
+jrjy  dymtry  srsQ,jrjy  dymtry  srsQ,,719,90070090,جرجي  ديمتري  سرسق,1852,1913,Person,0,1,137,0,1,370,2,red,jrjy  dymtry  srsQ,jrjy  dymtry  srsQ
+jrjy  nQwla  baz,jrjy  nQwla  baz,,579,311789687,جرجي  نقولا  باز,1881,1959,Person,0,1,137,0,3,1104,2,red,jrjy  nQwla  baz,jrjy  nQwla  baz
+jrjy QSaS,jrjy QSaS,,NA,NA,جرجي قصاص,NA,NA,Person,0,1,39,0,1,62,3,red,jrjy QSaS,jrjy QSaS
+jrjy  zydan,jrjy  zydan,,713,76496271,جرجي  زيدان,1861-12-14,1914-07-21,Person,0,1,51,0,1,151,1,red,jrjy  zydan,jrjy  zydan
+jrjy  zydan  | jrjy  zydan,jrjy  zydan  | jrjy  zydan,,713,76496271,جرجي  زيدان  | جرجي  زيدان,1861-12-14,1914-07-21,Person,0,1,51,0,3,447,1,red,jrjy  zydan  | jrjy  zydan,jrjy  zydan  | jrjy  zydan
+jstwr balswm,jstwr balswm,,586,52431747,جستور بالسوم,1852-09-25,1891-08-19,Person,0,1,137,0,1,370,2,red,jstwr balswm,jstwr balswm
+jwlya  T3m0,jwlya  T3m0,,1551,70069360,جوليا  طعمة,1880,1954,Person,0,1,39,0,2,122,3,red,jwlya  T3m0,jwlya  T3m0
+jwlya Tm3h,jwlya Tm3h,,NA,NA,جوليا طمعه,NA,NA,Person,0,1,39,0,1,62,3,red,jwlya Tm3h,jwlya Tm3h
+Kald alkaZm,Kald alkaZm,,98,NA,خالد الكاظم,NA,NA,Person,0,1,101,0,1,159,0,red,Kald alkaZm,Kald alkaZm
+kaZm   aldjyly,Kāẓim al-Dujaylī,,396,NA,كاظم   الدجيلي,1884,1970,Person,0,2,183,0,28,3745,1,red,Kāẓim al-Dujaylī,kaZm   aldjyly
+klman hwar,klman hwar,,978,29641421,كلمان هوار,1854-02-16,1926-12-30,Person,0,1,137,0,2,738,2,red,klman hwar,klman hwar
+Klyl  alKwry,Klyl  alKwry,,382,41830998,خليل  الخوري,1836,1910,Person,0,1,137,0,3,1104,2,red,Klyl  alKwry,Klyl  alKwry
+Klyl  mrdm bk,Klyl  mrdm bk,,924,76430365,خليل  مردم بك,1895-01-01,1959-01-01,Person,0,1,137,0,2,738,2,red,Klyl  mrdm bk,Klyl  mrdm bk
+Klyl  mTran,Klyl  mTran,,931,102460074,خليل  مطران,1872-07-01,1949-06-01,Person,0,1,137,0,1,370,2,red,Klyl  mTran,Klyl  mTran
+Klyl  s3ad0,Klyl  s3ad0,,722,35793307,خليل  سعادة,1857,1934-04-10,Person,0,1,137,0,1,370,2,red,Klyl  s3ad0,Klyl  s3ad0
+Klyl  s3d,Klyl  s3d,,724,NA,خليل  سعد,NA,NA,Person,0,1,137,0,5,1830,2,red,Klyl  s3d,Klyl  s3d
+Kwjh zadh fKr aldyn al3yntaby,Kwjh zadh fKr aldyn al3yntaby,,3628,NA,خوجه زاده فخر الدين العينتابي,NA,NA,Person,0,1,101,0,1,159,0,red,Kwjh zadh fKr aldyn al3yntaby,Kwjh zadh fKr aldyn al3yntaby
+Kyr aldyn  alzrkly,Kyr aldyn  alzrkly,,415,15578201,خير الدين  الزركلي,1893-06-25,1976-11-25,Person,0,1,137,0,4,1468,2,red,Kyr aldyn  alzrkly,Kyr aldyn  alzrkly
+Kyr allh afndy Kyr allh,Kyr allh afndy Kyr allh,,NA,NA,خير الله أفندي خير الله,NA,NA,Person,0,1,137,0,1,370,2,red,Kyr allh afndy Kyr allh,Kyr allh afndy Kyr allh
+Kyr allh Kyr allh,Kyr allh Kyr allh,,1664,NA,خير الله خير الله,NA,NA,Person,0,1,39,0,1,62,3,red,Kyr allh Kyr allh,Kyr allh Kyr allh
+l . m,l . m,,2232,NA,ل . م,NA,NA,Person,0,1,51,0,1,151,1,red,l . m,l . m
+lbnany0,lbnany0,,NA,NA,لبنانية,NA,NA,Person,0,1,39,0,2,122,3,red,lbnany0,lbnany0
+Lucien Bouvat,Lucien Bouvat,,236,44512503,Lucien Bouvat,1872-01-01,1942-01-01,Person,0,1,137,0,3,1104,2,red,Lucien Bouvat,Lucien Bouvat
+m,m,,3914,NA,م,NA,NA,Person,0,1,101,0,1,159,0,red,m,m
+m. m,m. m,,3916,NA,م. م,NA,NA,Person,0,1,101,0,1,159,0,red,m. m,m. m
+m. y,m. y,,141,NA,م. ي,NA,NA,Person,0,1,101,0,2,316,0,red,m. y,m. y
+m . y,m . y,,2269,NA,م . ي,NA,NA,Person,0,1,137,0,1,370,2,red,m . y,m . y
+m. z,m. z,,3915,NA,م. ز,NA,NA,Person,0,1,101,0,1,159,0,red,m. z,m. z
+m3rwf  alrSafy,Maʿrūf al-Ruṣāfī,,411,14924300,معروف  الرصافي,1875-01-01,1945-01-01,Person,0,4,315,0,32,9778,2,red,Maʿrūf al-Ruṣāfī,m3rwf  alrSafy
+m7b aldyn  alKTyb,m7b aldyn  alKTyb,,375,38333734,محب الدين  الخطيب,1886-01-01,1969-12-30,Person,0,1,137,0,4,1468,2,red,m7b aldyn  alKTyb,m7b aldyn  alKTyb
+m  7  K,m  7  K,,8,NA,م  ح  خ,NA,NA,Person,0,1,101,0,1,159,0,red,m  7  K,m  7  K
+m7md 3arf alm7mljy,m7md 3arf alm7mljy,,3964,NA,محمد عارف المحملجي,NA,NA,Person,0,1,101,0,1,159,0,red,m7md 3arf alm7mljy,m7md 3arf alm7mljy
+m7md  3arf  almnyr,m7md  3arf  almnyr,,547,299025643,محمد  عارف  المنير,NA,NA,Person,0,1,101,0,5,775,0,red,m7md  3arf  almnyr,m7md  3arf  almnyr
+m7md  3ly,m7md  3ly,,198,29512610,محمد  علي,1769-03-04,1849-08-02,Person,0,1,137,0,1,370,2,red,m7md  3ly,m7md  3ly
+m7md  3ly  almydany,m7md  3ly  almydany,,550,NA,محمد  علي  الميداني,NA,NA,Person,0,1,101,0,1,159,0,red,m7md  3ly  almydany,m7md  3ly  almydany
+m7md abn alWyK Tahr alsmawy,m7md abn alWyK Tahr alsmawy,,3938,NA,محمد ابن الشيخ طاهر السماوي,NA,NA,Person,0,1,51,0,1,151,1,red,m7md abn alWyK Tahr alsmawy,m7md abn alWyK Tahr alsmawy
+m7md abw als3wd mrad,m7md abw als3wd mrad,,146,NA,محمد أبو السعود مراد,NA,NA,Person,0,1,101,0,1,159,0,red,m7md abw als3wd mrad,m7md abw als3wd mrad
+m7md afndy alhaWmy,m7md afndy alhaWmy,,NA,NA,محمد أفندي الهاشمي,NA,NA,Person,0,1,137,0,1,370,2,red,m7md afndy alhaWmy,m7md afndy alhaWmy
+m7md afndy almhdy,m7md afndy almhdy,,NA,NA,محمد افندي المهدي,NA,NA,Person,0,1,137,0,1,370,2,red,m7md afndy almhdy,m7md afndy almhdy
+m7md  alhaWmy,Muḥammad al-Hāshimī,,566,NA,محمد  الهاشمي,NA,NA,Person,0,2,151,0,6,894,1,red,Muḥammad al-Hāshimī,m7md  alhaWmy
+m7md  alKDry,m7md  alKDry,,371,48162863,محمد  الخضري,1872,1927,Person,0,1,137,0,1,370,2,red,m7md  alKDry,m7md  alKDry
+m7md   alQasmy  al7laQ,m7md   alQasmy  al7laQ,,223,51567828,محمد   القاسمي  الحلاق,1843,1900,Person,0,1,101,0,4,624,0,red,m7md   alQasmy  al7laQ,m7md   alQasmy  al7laQ
+m7md  alTba3,m7md  alTba3,,456,17087051,محمد  الطباع,NA,NA,Person,0,1,101,0,2,316,0,red,m7md  alTba3,m7md  alTba3
+m7md  amam  al3bd,m7md  amam  al3bd,,458,NA,محمد  أمام  العبد,NA,NA,Person,0,1,137,0,1,370,2,red,m7md  amam  al3bd,m7md  amam  al3bd
+m7md  baQr  alWbyby,Muḥammad Bāqir al-Shabībī,,428,NA,محمد  باقر  الشبيبي,NA,NA,Person,0,2,183,0,5,962,1,red,Muḥammad Bāqir al-Shabībī,m7md  baQr  alWbyby
+m7md baQr alWyby,m7md baQr alWyby,,3942,NA,محمد باقر الشيبي,NA,NA,Person,0,1,51,0,1,151,1,red,m7md baQr alWyby,m7md baQr alWyby
+m7md bn aby W7ai alDby,m7md bn aby W7ai alDby,,3945,NA,محمد بن أبي شحاذ الضبي,NA,NA,Person,0,1,101,0,1,159,0,red,m7md bn aby W7ai alDby,m7md bn aby W7ai alDby
+m7md bn alKDr,m7md bn alKDr,,147,NA,محمد بن الخضر,NA,NA,Person,0,1,137,0,1,370,2,red,m7md bn alKDr,m7md bn alKDr
+m7md bn m7md almbark,m7md bn m7md almbark,,149,NA,محمد بن محمد المبارك,NA,NA,Person,0,1,101,0,1,159,0,red,m7md bn m7md almbark,m7md bn m7md almbark
+m7md  fa5Q  alkylany,m7md  fa5Q  alkylany,,2398,NA,محمد  فائق  الكيلاني,NA,NA,Person,0,1,51,0,1,151,1,red,m7md  fa5Q  alkylany,m7md  fa5Q  alkylany
+m7md fhmy alGzy,m7md fhmy alGzy,,158,NA,محمد فهمي الغزي,NA,NA,Person,0,1,137,0,1,370,2,red,m7md fhmy alGzy,m7md fhmy alGzy
+m7md  fryd  wjdy,m7md  fryd  wjdy,,980,53094077,محمد  فريد  وجدي,1875,1954,Person,0,1,101,0,6,924,0,red,m7md  fryd  wjdy,m7md  fryd  wjdy
+m7md  jmyl  alWTy,m7md  jmyl  alWTy,,441,96963151,محمد  جميل  الشطي,1882,1959,Person,0,1,137,0,1,370,2,red,m7md  jmyl  alWTy,m7md  jmyl  alWTy
+m7md  krd 3ly,Muḥammad Kurd ʿAlī,,878,32272677,محمد  كرد علي,1876-01-01,1953-01-01,Person,0,1,137,0,13,4654,2,red,Muḥammad Kurd ʿAlī,m7md  krd 3ly
+m7md  lTfy  jm30,m7md  lTfy  jm30,,625,62350636,محمد  لطفي  جمعة,1886-01-18,1953-06-15,Person,0,1,137,0,4,1468,2,red,m7md  lTfy  jm30,m7md  lTfy  jm30
+m7md njyb al7lby,m7md njyb al7lby,,3973,NA,محمد نجيب الحلبي,NA,NA,Person,0,1,101,0,1,159,0,red,m7md njyb al7lby,m7md njyb al7lby
+m7md njyb kywan,m7md njyb kywan,,3976,NA,محمد نجيب كيوان,NA,NA,Person,0,1,101,0,1,159,0,red,m7md njyb kywan,m7md njyb kywan
+m7md raGb alsadat,m7md raGb alsadat,,3955,NA,محمد راغب السادات,NA,NA,Person,0,1,101,0,1,159,0,red,m7md raGb alsadat,m7md raGb alsadat
+m7md  raGb  TbaK,Muḥammad Rāghib Ṭabbākh,,786,63117968,محمد  راغب  طباخ,1877,1951,Person,0,2,232,0,3,897,2,red,Muḥammad Rāghib Ṭabbākh,m7md  raGb  TbaK
+m7md rDa,m7md rDa,,3956,NA,محمد رضا,NA,NA,Person,0,1,101,0,1,159,0,red,m7md rDa,m7md rDa
+m7md  rDa  alWbyby,Muḥammad Riḍā al-Shabībī,,429,22006374,محمد  رضا  الشبيبي,1889-01-01,1965-01-01,Person,0,2,183,0,12,3496,2,red,Muḥammad Riḍā al-Shabībī,m7md  rDa  alWbyby
+m7md rWdy al7kym,m7md rWdy al7kym,,150,NA,محمد رشدي الحكيم,NA,NA,Person,0,1,137,0,1,370,2,red,m7md rWdy al7kym,m7md rWdy al7kym
+m7md  s3yd  alskry,m7md  s3yd  alskry,,424,NA,محمد  سعيد  السكري,NA,NA,Person,0,1,101,0,1,159,0,red,m7md  s3yd  alskry,m7md  s3yd  alskry
+m7md s3yd ayas,m7md s3yd ayas,,152,NA,محمد سعيد إياس,NA,NA,Person,0,1,101,0,2,316,0,red,m7md s3yd ayas,m7md s3yd ayas
+m7md  s3yd  zhwr,m7md  s3yd  zhwr,,711,NA,محمد  سعيد  زهور,NA,NA,Person,0,1,101,0,1,159,0,red,m7md  s3yd  zhwr,m7md  s3yd  zhwr
+m7md  SadQ  3nbr,m7md  SadQ  3nbr,,823,337149106226468491192,محمد  صادق  عنبر,1872,1938,Person,0,1,101,0,1,159,0,red,m7md  SadQ  3nbr,m7md  SadQ  3nbr
+m7md  slym  al7nfy,m7md  slym  al7nfy,,153,NA,محمد  سليم  الحنفي,NA,NA,Person,0,1,101,0,4,624,0,red,m7md  slym  al7nfy,m7md  slym  al7nfy
+m7mwd samy albarwdy,m7mwd samy albarwdy,,2423,NA,محمود سامي البارودي,NA,NA,Person,0,1,137,0,1,370,2,red,m7mwd samy albarwdy,m7mwd samy albarwdy
+m7mwd  Wkry  alalwsy,m7mwd  Wkry  alalwsy,,264,47005120,محمود  شكري  الآلوسي,1857-05-14,1924-05-08,Person,0,1,137,0,2,738,2,red,m7mwd  Wkry  alalwsy,m7mwd  Wkry  alalwsy
+m7y aldyn  alKany,m7y aldyn  alKany,,370,NA,محي الدين  الخاني,NA,NA,Person,0,1,101,0,2,316,0,red,m7y aldyn  alKany,m7y aldyn  alKany
+m7yy aldyn  fyD allh  alkylany,m7yy aldyn  fyD allh  alkylany,,2435,NA,محيي الدين  فيض الله  الكيلاني,NA,NA,Person,0,1,51,0,2,300,1,red,m7yy aldyn  fyD allh  alkylany,m7yy aldyn  fyD allh  alkylany
+maks nwrdw|m . 3 . j,maks nwrdw|m . 3 . j,,NA,NA,ماكس نوردو|م . ع . ج,NA,NA,Person,0,1,137,0,1,370,2,red,maks nwrdw|m . 3 . j,maks nwrdw|m . 3 . j
+mary  3jmy,mary  3jmy,,2844,219321857,ماري  عجمي,1888-05-14,1965-12-25,Person,0,1,39,0,5,290,3,red,mary  3jmy,mary  3jmy
+mKayl 7ayk,mKayl 7ayk,,2850,NA,مخايل حايك,NA,NA,Person,0,1,39,0,1,62,3,red,mKayl 7ayk,mKayl 7ayk
+mKtar  almoyd,mKtar  almoyd,,512,267054449,مختار  المؤيد,1822,1921,Person,0,1,101,0,4,624,0,red,mKtar  almoyd,mKtar  almoyd
+mla jamy| m7md  jmyl  alWTy,mla jamy| m7md  jmyl  alWTy,,NA,NA,ملا جامي| محمد  جميل  الشطي,NA,NA,Person,0,1,137,0,1,370,2,red,mla jamy| m7md  jmyl  alWTy,mla jamy| m7md  jmyl  alWTy
+mntfQy,mntfQy,,2483,NA,منتفقي,NA,NA,Person,0,1,51,0,1,151,1,red,mntfQy,mntfQy
+mnWyq al7snaq,mnWyq al7snaq,,NA,NA,منشيء الحسناء,NA,NA,Person,0,1,39,0,1,62,3,red,mnWyq al7snaq,mnWyq al7snaq
+mrj,mrj,,2446,NA,مرج,NA,NA,Person,0,1,51,0,2,300,1,red,mrj,mrj
+mryana mraW,mryana mraW,,NA,NA,مريانا مراش,NA,NA,Person,0,1,39,0,1,62,3,red,mryana mraW,mryana mraW
+mrym zka,mrym zka,,2845,NA,مريم زكا,NA,NA,Person,0,1,39,0,6,342,3,red,mrym zka,mrym zka
+mslm bGdady,mslm bGdady,,2457,NA,مسلم بغدادي,NA,NA,Person,0,1,51,0,1,151,1,red,mslm bGdady,mslm bGdady
+mSTfA  a7md  alQayaty,mSTfA  a7md  alQayaty,,485,NA,مصطفى  أحمد  القاياتي,NA,NA,Person,0,1,101,0,1,159,0,red,mSTfA  a7md  alQayaty,mSTfA  a7md  alQayaty
+mSTfA  alGlayyny,mSTfA  alGlayyny,,475,265101315,مصطفى  الغلاييني,1886-01-01,1944,Person,0,1,137,0,2,738,2,red,mSTfA  alGlayyny,mSTfA  alGlayyny
+mSTfA  nja,mSTfA  nja,,956,305215027,مصطفى  نجا,1853,1932,Person,0,1,101,0,1,159,0,red,mSTfA  nja,mSTfA  nja
+mSTfA  SadQ  alraf3y,Muṣṭafā Ṣādiq al-Rāfiʿī,,410,236524859,مصطفى  صادق  الرافعي,1880-01-01,1937-05-14,Person,0,2,232,0,6,1989,2,red,Muṣṭafā Ṣādiq al-Rāfiʿī,mSTfA  SadQ  alraf3y
+mSTfA SadQ alrfa3y,mSTfA SadQ alrfa3y,,NA,NA,مصطفى صادق الرفاعي,NA,NA,Person,0,1,137,0,1,370,2,red,mSTfA SadQ alrfa3y,mSTfA SadQ alrfa3y
+mUl bn naSr al7ly,mUl bn naSr al7ly,,NA,NA,مثل بن ناصر الحلي,NA,NA,Person,0,1,51,0,1,151,1,red,mUl bn naSr al7ly,mUl bn naSr al7ly
+n3wm  mkrzl,n3wm  mkrzl,,935,44217468,نعوم  مكرزل,1864-08-02,1932-04-05,Person,0,1,137,0,1,370,2,red,n3wm  mkrzl,n3wm  mkrzl
+nalynw,nalynw,,954,29650389,نالينو,1872-02-16,1938-07-25,Person,0,1,137,0,1,370,2,red,nalynw,nalynw
+naZr fy alktab,naZr fy alktab,,NA,NA,ناظر في الكتاب,NA,NA,Person,0,1,137,0,1,370,2,red,naZr fy alktab,naZr fy alktab
+njyb jrjs Tasw,njyb jrjs Tasw,,NA,NA,نجيب جرجس طاسو,NA,NA,Person,0,1,39,0,1,62,3,red,njyb jrjs Tasw,njyb jrjs Tasw
+nly  z3rb,nly  z3rb,,2847,NA,نلي  زعرب,NA,NA,Person,0,1,39,0,1,62,3,red,nly  z3rb,nly  z3rb
+nQwla  rzQ allh,nQwla  rzQ allh,,683,19561669,نقولا  رزق الله,1869-03-12,1915-04-20,Person,0,1,137,0,1,370,2,red,nQwla  rzQ allh,nQwla  rzQ allh
+nZlh brbary,nZlh brbary,,NA,NA,نظله برباري,NA,NA,Person,0,1,39,0,1,62,3,red,nZlh brbary,nZlh brbary
+Qasm  7rz allh,Qasm  7rz allh,,132,NA,قاسم  حرز الله,NA,NA,Person,0,1,101,0,1,159,0,red,Qasm  7rz allh,Qasm  7rz allh
+Qasm 7rz allh alnablsy,Qasm 7rz allh alnablsy,,3841,NA,قاسم حرز الله النابلسي,NA,NA,Person,0,1,101,0,1,159,0,red,Qasm 7rz allh alnablsy,Qasm 7rz allh alnablsy
+QsTaky  7mSy,QsTaky  7mSy,,2849,NA,قسطاكي  حمصي,NA,NA,Person,0,1,39,0,1,62,3,red,QsTaky  7mSy,QsTaky  7mSy
+QsTaky  alm7Sy,QsTaky  alm7Sy,,522,NA,قسطاكي  المحصي,NA,NA,Person,0,1,137,0,1,370,2,red,QsTaky  alm7Sy,QsTaky  alm7Sy
+r. b.,r. b.,,100,NA,ر. ب.,NA,NA,Person,0,1,137,0,2,738,2,red,r. b.,r. b.
+r. Q,r. Q,,3642,NA,ر. ق,NA,NA,Person,0,1,101,0,1,159,0,red,r. Q,r. Q
+raGb alsadat,raGb alsadat,,420,NA,راغب السادات,NA,NA,Person,0,1,101,0,1,159,0,red,raGb alsadat,raGb alsadat
+rfyQ  al3Zm,rfyQ  al3Zm,,464,28125663,رفيق  العظم,1865-01-01,1925-06-30,Person,0,1,137,0,7,2548,2,red,rfyQ  al3Zm,rfyQ  al3Zm
+rWdy  al7kym,rWdy  al7kym,,350,NA,رشدي  الحكيم,NA,NA,Person,0,1,137,0,1,370,2,red,rWdy  al7kym,rWdy  al7kym
+rWyd 3lywan,rWyd 3lywan,,3649,NA,رشيد عليوان,NA,NA,Person,0,1,101,0,1,159,0,red,rWyd 3lywan,rWyd 3lywan
+rWyd  alKwry,rWyd  alKwry,,383,270654623,رشيد  الخوري,1887,1984-08-27,Person,0,1,137,0,1,370,2,red,rWyd  alKwry,rWyd  alKwry
+rwza 7dad,rwza 7dad,,1755,NA,روزا حداد,NA,NA,Person,0,1,39,0,2,122,3,red,rwza 7dad,rwza 7dad
+rzwQ  3ysA,rzwQ  3ysA,,1725,97152636060620050511,رزوق  عيسى,1885,1940,Person,0,1,51,0,16,2176,1,red,rzwQ  3ysA,rzwQ  3ysA
+S,S,,NA,NA,ص,NA,NA,Person,0,1,137,0,2,738,2,red,S,S
+s3yd  alWrtwny,s3yd  alWrtwny,,436,96962923,سعيد  الشرتوني,1849,1912-08-18,Person,0,1,137,0,2,738,2,red,s3yd  alWrtwny,s3yd  alWrtwny
+s3yd kmal aldyn,s3yd kmal aldyn,,1804,NA,سعيد كمال الدين,NA,NA,Person,0,1,51,0,1,151,1,red,s3yd kmal aldyn,s3yd kmal aldyn
+Sal7  alWryf,Sal7  alWryf,,438,58892856,صالح  الشريف,1869,1920,Person,0,1,101,0,4,624,0,red,Sal7  alWryf,Sal7  alWryf
+satsna,Sātisnā,,227,39370998,ساتسنا,1866-08-05,1947-01-07,Person,0,2,183,0,15,5149,2,red,Sātisnā,satsna
+Sla7 aldyn,Sla7 aldyn,,3715,NA,صلاح الدين,NA,NA,Person,0,1,101,0,2,316,0,red,Sla7 aldyn,Sla7 aldyn
+Sla7 aldyn  alQasmy,Sla7 aldyn  alQasmy,,483,305212906,صلاح الدين  القاسمي,1887,1916,Person,0,1,137,0,4,1468,2,red,Sla7 aldyn  alQasmy,Sla7 aldyn  alQasmy
+Sla7 aldyn  alz3ym,Sla7 aldyn  alz3ym,,416,NA,صلاح الدين  الزعيم,NA,NA,Person,0,1,101,0,3,471,0,red,Sla7 aldyn  alz3ym,Sla7 aldyn  alz3ym
+slmA Trad,slmA Trad,,NA,NA,سلمى طراد,NA,NA,Person,0,1,39,0,1,62,3,red,slmA Trad,slmA Trad
+slwA,slwA,,NA,NA,سلوى,NA,NA,Person,0,1,39,0,1,62,3,red,slwA,slwA
+slwA  slam0,slwA  slam0,,729,NA,سلوى  سلامة,NA,NA,Person,0,1,39,0,4,236,3,red,slwA  slam0,slwA  slam0
+slym  3n7wry,slym  3n7wry,,825,46611500,سليم  عنحوري,1855,1933,Person,0,1,137,0,4,1468,2,red,slym  3n7wry,slym  3n7wry
+slym  albKary,slym  albKary,,298,NA,سليم  البخاري,NA,NA,Person,0,1,137,0,2,738,2,red,slym  albKary,slym  albKary
+slyman  aldKyl,slyman  aldKyl,,1845,21058435,سليمان  الدخيل,1877,1945-12-28,Person,0,1,51,0,2,300,1,red,slyman  aldKyl,slyman  aldKyl
+slyman  aldKyl  |Sa7b jryd0 alryaD,slyman  aldKyl  |Sa7b jryd0 alryaD,,1845,21058435,سليمان  الدخيل  |صاحب جريدة الرياض,1877,1945-12-28,Person,0,1,51,0,10,1420,1,red,slyman  aldKyl  |Sa7b jryd0 alryaD,slyman  aldKyl  |Sa7b jryd0 alryaD
+slyman  aldKyl  | slyman  aldKyl,slyman  aldKyl  | slyman  aldKyl,,1845,21058435,سليمان  الدخيل  | سليمان  الدخيل,1877,1945-12-28,Person,0,1,51,0,3,447,1,red,slyman  aldKyl  | slyman  aldKyl,slyman  aldKyl  | slyman  aldKyl
+slyman  Gzal0,slyman  Gzal0,,829,305214718,سليمان  غزالة,1854,1929,Person,0,1,137,0,2,738,2,red,slyman  Gzal0,slyman  Gzal0
+slyman  Zahr,slyman  Zahr,,797,50793892,سليمان  ظاهر,1873,1960,Person,0,1,137,0,5,1830,2,red,slyman  Zahr,slyman  Zahr
+slym  QSab,slym  QSab,,866,NA,سليم  قصاب,NA,NA,Person,0,1,101,0,1,159,0,red,slym  QSab,slym  QSab
+slym QSab 7sn,slym QSab 7sn,,106,NA,سليم قصاب حسن,NA,NA,Person,0,1,101,0,1,159,0,red,slym QSab 7sn,slym QSab 7sn
+slym saba baz,slym saba baz,,NA,NA,سليم سابا باز,NA,NA,Person,0,1,39,0,1,62,3,red,slym saba baz,slym saba baz
+S z,S z,,3710,NA,ص ز,NA,NA,Person,0,1,101,0,1,159,0,red,S z,S z
+Tanyws  3bdh,Tanyws  3bdh,,808,562149106368268492514,طانيوس  عبده,1863,1927,Person,0,1,137,0,1,370,2,red,Tanyws  3bdh,Tanyws  3bdh
+t  f,t  f,,6,NA,ت  ف,NA,NA,Person,0,1,101,0,1,159,0,red,t  f,t  f
+Th  7syn,Th  7syn,,638,225088570,طه  حسين,1889-11-14,1973-10-28,Person,0,1,137,0,2,738,2,red,Th  7syn,Th  7syn
+twfyQ  al3lmy,twfyQ  al3lmy,,468,NA,توفيق  العلمي,NA,NA,Person,0,1,101,0,1,159,0,red,twfyQ  al3lmy,twfyQ  al3lmy
+twfyQ  Qwydr,twfyQ  Qwydr,,869,NA,توفيق  قويدر,NA,NA,Person,0,1,101,0,1,159,0,red,twfyQ  Qwydr,twfyQ  Qwydr
+T y,T y,,117,NA,ط ي,NA,NA,Person,0,1,101,0,1,159,0,red,T y,T y
+W,W,,NA,NA,ش,NA,NA,Person,0,1,137,0,2,738,2,red,W,W
+W. a,W. a,,NA,NA,ش. ا,NA,NA,Person,0,1,137,0,1,370,2,red,W. a,W. a
+W7ad0 W7ad0,W7ad0 W7ad0,,110,NA,شحادة شحادة,NA,NA,Person,0,1,137,0,1,370,2,red,W7ad0 W7ad0,W7ad0 W7ad0
+W7ad0  W7ad0,W7ad0  W7ad0,,1888,NA,شحادة  شحادة,NA,NA,Person,0,1,39,0,3,180,3,red,W7ad0  W7ad0,W7ad0  W7ad0
+Warl snywbws,Warl snywbws,,741,68935764,شارل سنيوبوس,1854-09-10,1942-04-24,Person,0,1,137,0,5,1830,2,red,Warl snywbws,Warl snywbws
+waSf bk bTrs Galy,waSf bk bTrs Galy,,4065,NA,واصف بك بطرس غالي,NA,NA,Person,0,1,137,0,1,370,2,red,waSf bk bTrs Galy,waSf bk bTrs Galy
+wdy3 alKwry,wdy3 alKwry,,NA,NA,وديع الخوري,NA,NA,Person,0,1,39,0,1,62,3,red,wdy3 alKwry,wdy3 alKwry
+wdy3  alKwry  | wdy3  alKwry,wdy3  alKwry  | wdy3  alKwry,,388,NA,وديع  الخوري  | وديع  الخوري,NA,NA,Person,0,1,39,0,1,62,3,red,wdy3  alKwry  | wdy3  alKwry,wdy3  alKwry  | wdy3  alKwry
+Wkry  al3sly,Wkry  al3sly,,460,160786315,شكري  العسلي,1868,1916-05-06,Person,0,1,137,0,5,1830,2,red,Wkry  al3sly,Wkry  al3sly
+Wkry alfDly,Wkry alfDly,,1899,NA,شكري الفضلي,NA,NA,Person,0,1,51,0,2,300,1,red,Wkry alfDly,Wkry alfDly
+Wkyb  arslan,Wkyb  arslan,,242,73935498,شكيب  أرسلان,1869-12-25,1946-12-09,Person,0,1,137,0,5,1830,2,red,Wkyb  arslan,Wkyb  arslan
+wly aldyn   ykn,Walī al-Dīn Yakan,,2834,36771043,ولي الدين   يكن,1873,1921-03-06,Person,0,2,232,0,2,529,0,red,Walī al-Dīn Yakan,wly aldyn   ykn
+wrd0  alyazjy,wrd0  alyazjy,,2839,233275351,وردة  اليازجي,1838-01-20,1924,Person,0,1,39,0,2,122,3,red,wrd0  alyazjy,wrd0  alyazjy
+wTny,wTny,,NA,NA,وطني,NA,NA,Person,0,1,137,0,1,370,2,red,wTny,wTny
+y. S,y. S,,4071,NA,ي. ص,NA,NA,Person,0,1,101,0,1,159,0,red,y. S,y. S
+y3Qwb n3m0 allh srkys,y3Qwb n3m0 allh srkys,,4077,NA,يعقوب نعمة الله سركيس,NA,NA,Person,0,1,51,0,1,151,1,red,y3Qwb n3m0 allh srkys,y3Qwb n3m0 allh srkys
+y7yA alQl3y,y7yA alQl3y,,2976,NA,يحيى القلعي,NA,NA,Person,0,1,101,0,1,159,0,red,y7yA alQl3y,y7yA alQl3y
+y  d,y  d,,663,NA,ي  د,NA,NA,Person,0,1,137,0,1,370,2,red,y  d,y  d
+ywsf  Gnym0,ywsf  Gnym0,,2826,8440744,يوسف  غنيمة,1885,1950,Person,0,1,51,0,1,151,1,red,ywsf  Gnym0,ywsf  Gnym0
+ywsf  jrjs  zKm,Yūsuf Jirjis Zakham,,704,NA,يوسف  جرجس  زخم,1880-05-14,NA,Person,0,1,137,0,13,4654,2,red,Yūsuf Jirjis Zakham,ywsf  jrjs  zKm
+ywsf  lwys  alkrmly,ywsf  lwys  alkrmly,,2773,NA,يوسف  لويس  الكرملي,NA,NA,Person,0,1,51,0,2,300,1,red,ywsf  lwys  alkrmly,ywsf  lwys  alkrmly
+z. K,z. K,,102,NA,ز. خ,NA,NA,Person,0,1,137,0,2,738,2,red,z. K,z. K
