@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="7374.3745"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-5437.000000 -4519.568359 7374.374512 4583.522461"
+     height="4583.5225" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.030165335"
+              d="M -5344.033691,-1908.018066 C -4618.255859,-3124.739258 -1704.507568,-3861.154541 -487.786377,-3135.376709"
+              class="id_3ysA__askndr__alm3lwf id_a._j" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.030165335"
+              d="M -5344.033691,-1908.018066 C -4488.964355,-3300.021973 -1118.355103,-4105.423340 273.648529,-3250.353760"
+              class="id_3ysA__askndr__alm3lwf id_a7md__m7rm"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.07258533"
+              d="M -5344.033691,-1908.018066 C -4549.899902,-2431.237793 -2573.869385,-2024.866455 -2050.649658,-1230.732544"
+              class="id_3ysA__askndr__alm3lwf id_abrahym__7lmy__al3mr"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.024105333"
+              d="M -5344.033691,-1908.018066 C -4282.329102,-3589.660889 -167.308777,-4519.568359 1514.333984,-3457.864014"
+              class="id_3ysA__askndr__alm3lwf id_abw_alDya" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.024105333"
+              d="M -5344.033691,-1908.018066 C -4364.487305,-2232.875000 -2407.882813,-1250.841187 -2083.026123,-271.295013"
+              class="id_3ysA__askndr__alm3lwf id_kaZm___aldjyly"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.18348333"
+              d="M -5344.033691,-1908.018066 C -4728.557617,-2120.195313 -3487.076904,-1515.246948 -3274.899414,-899.770569"
+              class="id_3ysA__askndr__alm3lwf id_m3rwf__alrSafy"
+              stroke-opacity="0.8" stroke="#28b36a"/>
+        <path fill="none" stroke-width="0.024105333"
+              d="M -5344.033691,-1908.018066 C -4506.812988,-2215.459473 -2789.819580,-1420.790527 -2482.378174,-583.569824"
+              class="id_3ysA__askndr__alm3lwf id_m7md__baQr__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.030165335"
+              d="M -5344.033691,-1908.018066 C -4689.082031,-3223.110352 -1734.016724,-4213.320801 -418.924622,-3558.368896"
+              class="id_3ysA__askndr__alm3lwf id_m7md__raGb__TbaK"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.06652533"
+              d="M -5344.033691,-1908.018066 C -4750.253418,-2332.907715 -3222.248047,-2079.571045 -2797.358643,-1485.790649"
+              class="id_3ysA__askndr__alm3lwf id_m7md__rDa__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.04834533"
+              d="M -5344.033691,-1908.018066 C -4811.610352,-2982.051025 -2401.925537,-3794.464600 -1327.892578,-3262.041016"
+              class="id_3ysA__askndr__alm3lwf id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.102885336"
+              d="M -5344.033691,-1908.018066 C -4845.050781,-2396.636475 -3363.648682,-2381.089844 -2875.030029,-1882.106934"
+              class="id_3ysA__askndr__alm3lwf id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.024105333"
+              d="M -5344.033691,-1908.018066 C -4493.500000,-3433.114990 -930.053467,-4444.959961 595.043579,-3594.426025"
+              class="id_3ysA__askndr__alm3lwf id_wly_aldyn___ykn"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019863334"
+              d="M -487.786377,-3135.376709 C -358.494812,-3310.659180 98.366135,-3379.645508 273.648529,-3250.353760"
+              class="id_a._j id_a7md__m7rm" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.023499332"
+              d="M -487.786377,-3135.376709 C -419.430176,-2441.875000 -1357.148193,-1299.088745 -2050.649658,-1230.732544"
+              class="id_a._j id_abrahym__7lmy__al3mr" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019560333"
+              d="M -487.786377,-3135.376709 C -151.859772,-3600.298340 1049.412476,-3793.790527 1514.333984,-3457.864014"
+              class="id_a._j id_abw_alDya" stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018651333"
+              d="M -487.786377,-3135.376709 C -234.018005,-2243.512207 -1191.161865,-525.063354 -2083.026123,-271.295013"
+              class="id_a._j id_kaZm___aldjyly" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.034710333"
+              d="M -487.786377,-3135.376709 C -598.087708,-2130.832764 -2270.355469,-789.469238 -3274.899414,-899.770569"
+              class="id_a._j id_m3rwf__alrSafy" stroke-opacity="0.8"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M -487.786377,-3135.376709 C 271.180725,-2977.263184 1172.461060,-1601.642334 1014.347595,-842.675354"
+              class="id_a._j id_m7md__alhaWmy" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018651333"
+              d="M -487.786377,-3135.376709 C -376.343353,-2226.096924 -1573.098267,-695.012878 -2482.378174,-583.569824"
+              class="id_a._j id_m7md__baQr__alWbyby" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019560333"
+              d="M -487.786377,-3135.376709 C -558.612488,-3233.747559 -517.295410,-3487.542969 -418.924622,-3558.368896"
+              class="id_a._j id_m7md__raGb__TbaK" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.022893334"
+              d="M -487.786377,-3135.376709 C -619.783569,-2343.544922 -2005.526855,-1353.793457 -2797.358643,-1485.790649"
+              class="id_a._j id_m7md__rDa__alWbyby" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.021378335"
+              d="M -487.786377,-3135.376709 C -681.140503,-2992.688232 -1185.204224,-3068.687012 -1327.892578,-3262.041016"
+              class="id_a._j id_mSTfA__SadQ__alraf3y" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.026529334"
+              d="M -487.786377,-3135.376709 C -714.581177,-2407.273926 -2146.927246,-1655.312256 -2875.030029,-1882.106934"
+              class="id_a._j id_satsna" stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018954333"
+              d="M -487.786377,-3135.376709 C -363.030273,-3443.752441 286.667725,-3719.182129 595.043579,-3594.426025"
+              class="id_a._j id_wly_aldyn___ykn" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.023499332"
+              d="M 273.648529,-3250.353760 C 212.713165,-2381.569824 -1181.865723,-1169.797241 -2050.649658,-1230.732544"
+              class="id_a7md__m7rm id_abrahym__7lmy__al3mr" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.020469334"
+              d="M 273.648529,-3250.353760 C 480.283600,-3539.992676 1224.694824,-3664.499023 1514.333984,-3457.864014"
+              class="id_a7md__m7rm id_abw_alDya" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018651333"
+              d="M 273.648529,-3250.353760 C 398.125458,-2183.207031 -1015.879333,-395.771912 -2083.026123,-271.295013"
+              class="id_a7md__m7rm id_kaZm___aldjyly" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.035013333"
+              d="M 273.648529,-3250.353760 C 34.055573,-2070.527344 -2095.073242,-660.177612 -3274.899414,-899.770569"
+              class="id_a7md__m7rm id_m3rwf__alrSafy" stroke-opacity="0.8"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="0.018651333"
+              d="M 273.648529,-3250.353760 C 903.323975,-2916.958008 1347.743408,-1472.350830 1014.347595,-842.675354"
+              class="id_a7md__m7rm id_m7md__alhaWmy" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018651333"
+              d="M 273.648529,-3250.353760 C 255.799957,-2165.791748 -1397.816162,-565.721191 -2482.378174,-583.569824"
+              class="id_a7md__m7rm id_m7md__baQr__alWbyby" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019863334"
+              d="M 273.648529,-3250.353760 C 73.530884,-3173.442139 -342.013031,-3358.251221 -418.924622,-3558.368896"
+              class="id_a7md__m7rm id_m7md__raGb__TbaK" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.022893334"
+              d="M 273.648529,-3250.353760 C 12.359741,-2283.239746 -1830.244629,-1224.501831 -2797.358643,-1485.790649"
+              class="id_a7md__m7rm id_m7md__rDa__alWbyby" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.021681333"
+              d="M 273.648529,-3250.353760 C -48.997150,-2932.382813 -1009.921814,-2939.395508 -1327.892578,-3262.041016"
+              class="id_a7md__m7rm id_mSTfA__SadQ__alraf3y" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.026529334"
+              d="M 273.648529,-3250.353760 C -82.437805,-2346.968750 -1971.645020,-1526.020630 -2875.030029,-1882.106934"
+              class="id_a7md__m7rm id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019257333"
+              d="M 273.648529,-3250.353760 C 269.113098,-3383.447266 461.950134,-3589.890625 595.043579,-3594.426025"
+              class="id_a7md__m7rm id_wly_aldyn___ykn" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.020772334"
+              d="M -2050.649658,-1230.732544 C -1783.079224,-2389.155518 355.911011,-3725.434570 1514.333984,-3457.864014"
+              class="id_abrahym__7lmy__al3mr id_abw_alDya" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.12712534"
+              d="M -2050.649658,-1230.732544 C -1865.237549,-1032.369751 -1884.663330,-456.707214 -2083.026123,-271.295013"
+              class="id_abrahym__7lmy__al3mr id_kaZm___aldjyly"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.09561334"
+              d="M -2050.649658,-1230.732544 C -2229.307129,-919.690186 -2963.857178,-721.112976 -3274.899414,-899.770569"
+              class="id_abrahym__7lmy__al3mr id_m3rwf__alrSafy"
+              stroke-opacity="0.8" stroke="#28b36a"/>
+        <path fill="none" stroke-width="0.037740335"
+              d="M -2050.649658,-1230.732544 C -1360.038696,-1766.120605 478.959595,-1533.286255 1014.347595,-842.675354"
+              class="id_abrahym__7lmy__al3mr id_m7md__alhaWmy"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.036528334"
+              d="M -2050.649658,-1230.732544 C -2007.562866,-1014.954346 -2266.599854,-626.656677 -2482.378174,-583.569824"
+              class="id_abrahym__7lmy__al3mr id_m7md__baQr__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.023499332"
+              d="M -2050.649658,-1230.732544 C -2189.832031,-2022.604736 -1210.796875,-3419.186768 -418.924622,-3558.368896"
+              class="id_abrahym__7lmy__al3mr id_m7md__raGb__TbaK"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.055617332"
+              d="M -2050.649658,-1230.732544 C -2251.003174,-1132.402344 -2699.028564,-1285.437256 -2797.358643,-1485.790649"
+              class="id_abrahym__7lmy__al3mr id_m7md__rDa__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.03168033"
+              d="M -2050.649658,-1230.732544 C -2312.359863,-1781.545654 -1878.705688,-3000.330811 -1327.892578,-3262.041016"
+              class="id_abrahym__7lmy__al3mr id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.060162336"
+              d="M -2050.649658,-1230.732544 C -2345.800537,-1196.131348 -2840.428955,-1586.955933 -2875.030029,-1882.106934"
+              class="id_abrahym__7lmy__al3mr id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.020772334"
+              d="M -2050.649658,-1230.732544 C -1994.249634,-2232.609863 -406.833740,-3650.826172 595.043579,-3594.426025"
+              class="id_abrahym__7lmy__al3mr id_wly_aldyn___ykn"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M 1514.333984,-3457.864014 C 1432.175781,-2101.078125 -726.240234,-189.136841 -2083.026123,-271.295013"
+              class="id_abw_alDya id_kaZm___aldjyly" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.027135333"
+              d="M 1514.333984,-3457.864014 C 1068.105957,-1988.398682 -1805.434082,-453.542603 -3274.899414,-899.770569"
+              class="id_abw_alDya id_m3rwf__alrSafy" stroke-opacity="0.8"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="0.018954333"
+              d="M 1514.333984,-3457.864014 C 1937.374390,-2834.828857 1637.382568,-1265.715820 1014.347595,-842.675354"
+              class="id_abw_alDya id_m7md__alhaWmy" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M 1514.333984,-3457.864014 C 1289.850342,-2083.662598 -1108.176758,-359.086243 -2482.378174,-583.569824"
+              class="id_abw_alDya id_m7md__baQr__alWbyby" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019560333"
+              d="M 1514.333984,-3457.864014 C 1107.581299,-3091.313477 -52.373894,-3151.616211 -418.924622,-3558.368896"
+              class="id_abw_alDya id_m7md__raGb__TbaK" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.020469334"
+              d="M 1514.333984,-3457.864014 C 1046.410156,-2201.110840 -1540.605469,-1017.866821 -2797.358643,-1485.790649"
+              class="id_abw_alDya id_m7md__rDa__alWbyby" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.020469334"
+              d="M 1514.333984,-3457.864014 C 985.053223,-2850.254150 -720.282593,-2732.760254 -1327.892578,-3262.041016"
+              class="id_abw_alDya id_mSTfA__SadQ__alraf3y" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.022287333"
+              d="M 1514.333984,-3457.864014 C 951.612549,-2264.839844 -1682.005859,-1319.385498 -2875.030029,-1882.106934"
+              class="id_abw_alDya id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019257333"
+              d="M 1514.333984,-3457.864014 C 1303.163574,-3301.318359 751.589294,-3383.255371 595.043579,-3594.426025"
+              class="id_abw_alDya id_wly_aldyn___ykn" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.034407333"
+              d="M -2083.026123,-271.295013 C -2447.095947,-158.615479 -3162.219727,-535.700806 -3274.899414,-899.770569"
+              class="id_kaZm___aldjyly id_m3rwf__alrSafy" stroke-opacity="0.8"
+              stroke="#28b36a"/>
+        <path fill="none" stroke-width="0.058950335"
+              d="M -2083.026123,-271.295013 C -1577.827515,-1005.045776 280.596802,-1347.874023 1014.347595,-842.675354"
+              class="id_kaZm___aldjyly id_m7md__alhaWmy" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.051072333"
+              d="M -2083.026123,-271.295013 C -2225.351563,-253.879547 -2464.962891,-441.244446 -2482.378174,-583.569824"
+              class="id_kaZm___aldjyly id_m7md__baQr__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018651333"
+              d="M -2083.026123,-271.295013 C -2407.620605,-1261.530151 -1409.159668,-3233.774414 -418.924622,-3558.368896"
+              class="id_kaZm___aldjyly id_m7md__raGb__TbaK" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.053193334"
+              d="M -2083.026123,-271.295013 C -2468.791748,-371.327637 -2897.391357,-1100.025024 -2797.358643,-1485.790649"
+              class="id_kaZm___aldjyly id_m7md__rDa__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019560333"
+              d="M -2083.026123,-271.295013 C -2530.148682,-1020.471069 -2077.068604,-2814.918213 -1327.892578,-3262.041016"
+              class="id_kaZm___aldjyly id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.030468335"
+              d="M -2083.026123,-271.295013 C -2563.589355,-435.056641 -3038.791504,-1401.543823 -2875.030029,-1882.106934"
+              class="id_kaZm___aldjyly id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M -2083.026123,-271.295013 C -2212.038330,-1471.535156 -605.196594,-3465.413818 595.043579,-3594.426025"
+              class="id_kaZm___aldjyly id_wly_aldyn___ykn" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019863334"
+              d="M -3274.899414,-899.770569 C -2405.631104,-1746.200928 167.917206,-1711.943848 1014.347595,-842.675354"
+              class="id_m3rwf__alrSafy id_m7md__alhaWmy" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.027438333"
+              d="M -3274.899414,-899.770569 C -3053.155029,-995.034668 -2577.642090,-805.314209 -2482.378174,-583.569824"
+              class="id_m3rwf__alrSafy id_m7md__baQr__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.034710333"
+              d="M -3274.899414,-899.770569 C -3235.424316,-2002.685181 -1521.839355,-3597.844238 -418.924622,-3558.368896"
+              class="id_m3rwf__alrSafy id_m7md__raGb__TbaK" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.08470534"
+              d="M -3274.899414,-899.770569 C -3296.595459,-1112.482788 -3010.070801,-1464.094849 -2797.358643,-1485.790649"
+              class="id_m3rwf__alrSafy id_m7md__rDa__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.059253335"
+              d="M -3274.899414,-899.770569 C -3357.952148,-1761.626099 -2189.748047,-3178.988281 -1327.892578,-3262.041016"
+              class="id_m3rwf__alrSafy id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.13288233"
+              d="M -3274.899414,-899.770569 C -3391.392822,-1176.211670 -3151.471191,-1765.613525 -2875.030029,-1882.106934"
+              class="id_m3rwf__alrSafy id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.026529334"
+              d="M -3274.899414,-899.770569 C -3039.842041,-2212.690186 -717.876099,-3829.483398 595.043579,-3594.426025"
+              class="id_m3rwf__alrSafy id_wly_aldyn___ykn" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.024105333"
+              d="M 1014.347595,-842.675354 C 366.823547,-91.509094 -1731.211914,63.954224 -2482.378174,-583.569824"
+              class="id_m7md__alhaWmy id_m7md__baQr__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M 1014.347595,-842.675354 C 184.554443,-1099.159668 -675.408936,-2728.575684 -418.924622,-3558.368896"
+              class="id_m7md__alhaWmy id_m7md__raGb__TbaK" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.024105333"
+              d="M 1014.347595,-842.675354 C 123.383224,-208.957092 -2163.640381,-594.826294 -2797.358643,-1485.790649"
+              class="id_m7md__alhaWmy id_m7md__rDa__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M 1014.347595,-842.675354 C 62.026367,-858.100525 -1343.317627,-2309.719971 -1327.892578,-3262.041016"
+              class="id_m7md__alhaWmy id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019560333"
+              d="M 1014.347595,-842.675354 C 28.585724,-272.686096 -2305.040771,-896.345032 -2875.030029,-1882.106934"
+              class="id_m7md__alhaWmy id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M 1014.347595,-842.675354 C 380.136658,-1309.164673 128.554199,-2960.215088 595.043579,-3594.426025"
+              class="id_m7md__alhaWmy id_wly_aldyn___ykn" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018651333"
+              d="M -2482.378174,-583.569824 C -2664.647217,-1591.220215 -1426.575195,-3376.099854 -418.924622,-3558.368896"
+              class="id_m7md__baQr__alWbyby id_m7md__raGb__TbaK"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.025317334"
+              d="M -2482.378174,-583.569824 C -2725.818359,-701.017883 -2914.806641,-1242.350342 -2797.358643,-1485.790649"
+              class="id_m7md__baQr__alWbyby id_m7md__rDa__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019560333"
+              d="M -2482.378174,-583.569824 C -2787.175293,-1350.161255 -2094.483887,-2957.243896 -1327.892578,-3262.041016"
+              class="id_m7md__baQr__alWbyby id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.023499332"
+              d="M -2482.378174,-583.569824 C -2820.615967,-764.746826 -3056.207275,-1543.869141 -2875.030029,-1882.106934"
+              class="id_m7md__baQr__alWbyby id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018348334"
+              d="M -2482.378174,-583.569824 C -2469.064941,-1801.225342 -622.612000,-3607.739258 595.043579,-3594.426025"
+              class="id_m7md__baQr__alWbyby id_wly_aldyn___ykn"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.022893334"
+              d="M -418.924622,-3558.368896 C -480.095795,-2668.166504 -1907.156250,-1424.619385 -2797.358643,-1485.790649"
+              class="id_m7md__raGb__TbaK id_m7md__rDa__alWbyby"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.021378335"
+              d="M -418.924622,-3558.368896 C -541.452637,-3317.309570 -1086.833374,-3139.512939 -1327.892578,-3262.041016"
+              class="id_m7md__raGb__TbaK id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.026529334"
+              d="M -418.924622,-3558.368896 C -574.893311,-2731.895264 -2048.556396,-1726.138184 -2875.030029,-1882.106934"
+              class="id_m7md__raGb__TbaK id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.018954333"
+              d="M -418.924622,-3558.368896 C -223.342407,-3768.374023 385.038513,-3790.008301 595.043579,-3594.426025"
+              class="id_m7md__raGb__TbaK id_wly_aldyn___ykn"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.030165335"
+              d="M -2797.358643,-1485.790649 C -2858.715332,-2134.934082 -1977.035889,-3200.684326 -1327.892578,-3262.041016"
+              class="id_m7md__rDa__alWbyby id_mSTfA__SadQ__alraf3y"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.053193334"
+              d="M -2797.358643,-1485.790649 C -2892.156006,-1549.519653 -2938.759033,-1787.309326 -2875.030029,-1882.106934"
+              class="id_m7md__rDa__alWbyby id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.020469334"
+              d="M -2797.358643,-1485.790649 C -2540.605225,-2585.998047 -505.163940,-3851.179443 595.043579,-3594.426025"
+              class="id_m7md__rDa__alWbyby id_wly_aldyn___ykn"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.039255332"
+              d="M -1327.892578,-3262.041016 C -1361.333252,-2676.626709 -2289.615723,-1848.666260 -2875.030029,-1882.106934"
+              class="id_mSTfA__SadQ__alraf3y id_satsna" stroke-opacity="0.8"
+              stroke="#f97743"/>
+        <path fill="none" stroke-width="0.019863334"
+              d="M -1327.892578,-3262.041016 C -1009.782288,-3713.105225 143.979324,-3912.536133 595.043579,-3594.426025"
+              class="id_mSTfA__SadQ__alraf3y id_wly_aldyn___ykn"
+              stroke-opacity="0.8" stroke="#f97743"/>
+        <path fill="none" stroke-width="0.022287333"
+              d="M -2875.030029,-1882.106934 C -2523.479004,-2918.585449 -441.434998,-3945.977051 595.043579,-3594.426025"
+              class="id_satsna id_wly_aldyn___ykn" stroke-opacity="0.8"
+              stroke="#f97743"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="92.86949" cx="-5344.0337"
+                class="id_3ysA__askndr__alm3lwf" cy="-1908.0181"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="28.594072" cx="-487.78638"
+                class="id_a._j" cy="-3135.3767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="30.209963" cx="273.64853"
+                class="id_a7md__m7rm" cy="-3250.3538" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="71.492386" cx="-2050.6497"
+                class="id_abrahym__7lmy__al3mr" cy="-1230.7325" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="28.017702" cx="1514.334"
+                class="id_abw_alDya" cy="-3457.864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="57.906544" cx="-2083.0261"
+                class="id_kaZm___aldjyly" cy="-271.295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="120.0" cx="-3274.8994"
+                class="id_m3rwf__alrSafy" cy="-899.77057" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="28.563194" cx="1014.3476"
+                class="id_m7md__alhaWmy" cy="-842.67535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="29.263071" cx="-2482.3782"
+                class="id_m7md__baQr__alWbyby" cy="-583.5698" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="28.594072" cx="-418.92462"
+                class="id_m7md__raGb__TbaK" cy="-3558.369" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="55.34376" cx="-2797.3586"
+                class="id_m7md__rDa__alWbyby" cy="-1485.7906" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="39.833267" cx="-1327.8926"
+                class="id_mSTfA__SadQ__alraf3y" cy="-3262.041" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="72.35693" cx="-2875.03"
+                class="id_satsna" cy="-1882.1069" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="24.806505" cx="595.0436"
+                class="id_wly_aldyn___ykn" cy="-3594.426" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.18348333"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="186" x="-5344.0337" y="-1866.9121" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_3ysA__askndr__alm3lwf">
+            ʿĪsā Iskandar al-Maʿlūf
+        </text>
+        <text font-size="57" x="-487.78638" y="-3124.974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_a._j">
+            A.J.
+        </text>
+        <text font-size="60" x="273.64853" y="-3237.3638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_a7md__m7rm">
+            Aḥmad Muḥarram
+        </text>
+        <text font-size="143" x="-2050.6497" y="-1197.1276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_abrahym__7lmy__al3mr">
+            Ibrāhīm Ḥilmī al-ʿAmr
+        </text>
+        <text font-size="56" x="1514.334" y="-3444.928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_abw_alDya">
+            Abū al-Ḍiyā
+        </text>
+        <text font-size="116" x="-2083.0261" y="-244.58601" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_kaZm___aldjyly">
+            Kāẓim al-Dujaylī
+        </text>
+        <text font-size="240" x="-3274.8994" y="-842.17053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_m3rwf__alrSafy">
+            Maʿrūf al-Ruṣāfī
+        </text>
+        <text font-size="57" x="1014.3476" y="-830.33484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_m7md__alhaWmy">
+            Muḥammad al-Hāshimī
+        </text>
+        <text font-size="59" x="-2482.3782" y="-569.88184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_m7md__baQr__alWbyby">
+            Muḥammad Bāqir al-Shabībī
+        </text>
+        <text font-size="57" x="-418.92462" y="-3545.1306" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_m7md__raGb__TbaK">
+            Muḥammad Rāghib Ṭabbākh
+        </text>
+        <text font-size="111" x="-2797.3586" y="-1460.6213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_m7md__rDa__alWbyby">
+            Muḥammad Riḍā al-Shabībī
+        </text>
+        <text font-size="80" x="-1327.8926" y="-3242.221" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_mSTfA__SadQ__alraf3y">
+            Muṣṭafā Ṣādiq al-Rāfiʿī
+        </text>
+        <text font-size="145" x="-2875.03" y="-1855.0282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_satsna">
+            Sātisnā
+        </text>
+        <text font-size="50" x="595.0436" y="-3585.3635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Helvetica Neue" class="id_wly_aldyn___ykn">
+            Walī al-Dīn Yakan
+        </text>
+    </g>
+</svg>
