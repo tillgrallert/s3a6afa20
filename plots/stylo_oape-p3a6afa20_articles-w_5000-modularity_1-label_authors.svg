@@ -16,8 +16,11 @@
    preserveAspectRatio="xMidYMid meet"
    version="1.1"
    id="svg1252"
-   sodipodi:docname="stylo_articles-w_5000-modularity_1-label_authors.svg"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+   sodipodi:docname="stylo_oape-p3a6afa20_articles-w_5000-modularity_1-label_authors.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   inkscape:export-filename="/BachUni/publications/github/s3a6afa20/plots/stylo_oape-p3a6afa20_articles-w_5000-modularity_1-label_authors.png"
+   inkscape:export-xdpi="150.01268"
+   inkscape:export-ydpi="150.01268">
   <metadata
      id="metadata1258">
     <rdf:RDF>
@@ -44,13 +47,14 @@
      inkscape:window-height="1395"
      id="namedview1254"
      showgrid="false"
-     inkscape:zoom="0.51445126"
-     inkscape:cx="1998.3873"
-     inkscape:cy="1075.3133"
+     inkscape:zoom="0.33589188"
+     inkscape:cx="1856.9466"
+     inkscape:cy="1041.8157"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1252" />
+     inkscape:current-layer="nodes"
+     inkscape:document-rotation="0" />
   <g
      id="edges"
      transform="translate(348.38727,-0.38790131)">
@@ -61,7 +65,8 @@
        class="id_NN_oclc.4770057679_v.3_i.12_div_3.d1e699 id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path635" />
+       id="path635"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="12.0354"
@@ -69,7 +74,8 @@
        class="id_NN_oclc.4770057679_v.3_i.12_div_3.d1e699 id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path637" />
+       id="path637"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -77,7 +83,8 @@
        class="id_NN_oclc.4770057679_v.3_i.12_div_3.d1e699 id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path639" />
+       id="path639"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.33628"
@@ -85,7 +92,8 @@
        class="id_NN_oclc.4770057679_v.3_i.12_div_3.d1e699 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path641" />
+       id="path641"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.79646"
@@ -93,7 +101,8 @@
        class="id_NN_oclc.4770057679_v.3_i.12_div_3.d1e699 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path643" />
+       id="path643"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -101,7 +110,8 @@
        class="id_NN_oclc.4770057679_v.3_i.12_div_3.d1e699 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path645" />
+       id="path645"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -109,7 +119,8 @@
        class="id_NN_oclc.4770057679_v.3_i.4_div_3.d1e696 id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path647" />
+       id="path647"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="21.2743"
@@ -117,7 +128,8 @@
        class="id_NN_oclc.4770057679_v.3_i.4_div_3.d1e696 id_oape.185_oclc.4770057679_v.3_i.3_div_5.d1e2187"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path649" />
+       id="path649"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -125,7 +137,8 @@
        class="id_NN_oclc.4770057679_v.3_i.4_div_3.d1e696 id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path651" />
+       id="path651"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -133,7 +146,8 @@
        class="id_NN_oclc.4770057679_v.3_i.4_div_3.d1e696 id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path653" />
+       id="path653"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="26.1504"
@@ -141,7 +155,8 @@
        class="id_NN_oclc.4770057679_v.3_i.4_div_3.d1e696 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path655" />
+       id="path655"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.02655"
@@ -149,7 +164,8 @@
        class="id_NN_oclc.4770057679_v.3_i.4_div_3.d1e696 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path657" />
+       id="path657"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="11.2655"
@@ -157,7 +173,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path659" />
+       id="path659"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -165,7 +182,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_NN_oclc.4770057679_v.8_i.11-12_div_4.d1e1096"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path661" />
+       id="path661"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -173,7 +191,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path663" />
+       id="path663"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="17.1681"
@@ -181,7 +200,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path665" />
+       id="path665"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.84956"
@@ -189,7 +209,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path667" />
+       id="path667"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.59292"
@@ -197,7 +218,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path669" />
+       id="path669"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -205,7 +227,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path671" />
+       id="path671"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.79646"
@@ -213,7 +236,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_oape.917_oclc.4770057679_v.7_i.5_div_6.d1e1838"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path673" />
+       id="path673"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -221,7 +245,8 @@
        class="id_NN_oclc.4770057679_v.3_i.9_div_3.d1e696 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path675" />
+       id="path675"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -229,7 +254,8 @@
        class="id_NN_oclc.4770057679_v.4_i.7_div_27.d1e4213 id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path677" />
+       id="path677"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="20.7611"
@@ -245,7 +271,8 @@
        class="id_NN_oclc.4770057679_v.4_i.7_div_27.d1e4213 id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path681" />
+       id="path681"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.02655"
@@ -253,7 +280,8 @@
        class="id_NN_oclc.4770057679_v.4_i.7_div_27.d1e4213 id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path683" />
+       id="path683"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.90265"
@@ -269,7 +297,8 @@
        class="id_NN_oclc.4770057679_v.4_i.7_div_27.d1e4213 id_oape.482_oclc.4770057679_v.5_i.3_div_4.d1e2033"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path687" />
+       id="path687"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="16.6549"
@@ -285,7 +314,8 @@
        class="id_NN_oclc.4770057679_v.5_i.10_div_2.d1e1389 id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path691" />
+       id="path691"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="11.2655"
@@ -293,7 +323,8 @@
        class="id_NN_oclc.4770057679_v.5_i.10_div_2.d1e1389 id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path693" />
+       id="path693"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="15.3717"
@@ -301,7 +332,8 @@
        class="id_NN_oclc.4770057679_v.5_i.10_div_2.d1e1389 id_NN_oclc.4770057679_v.8_i.1_div_5.d1e1640"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path695" />
+       id="path695"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -309,7 +341,8 @@
        class="id_NN_oclc.4770057679_v.5_i.10_div_2.d1e1389 id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path697" />
+       id="path697"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -317,7 +350,8 @@
        class="id_NN_oclc.4770057679_v.5_i.10_div_2.d1e1389 id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path699" />
+       id="path699"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.53982"
@@ -325,7 +359,8 @@
        class="id_NN_oclc.4770057679_v.5_i.10_div_2.d1e1389 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path701" />
+       id="path701"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="7.41593"
@@ -333,7 +368,8 @@
        class="id_NN_oclc.4770057679_v.5_i.10_div_2.d1e1389 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path703" />
+       id="path703"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="9.9823"
@@ -341,7 +377,8 @@
        class="id_NN_oclc.4770057679_v.5_i.11_div_6.d1e2730 id_NN_oclc.4770057679_v.6_i.10_div_24.d1e1750"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path705" />
+       id="path705"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -349,7 +386,8 @@
        class="id_NN_oclc.4770057679_v.5_i.11_div_6.d1e2730 id_NN_oclc.4770057679_v.6_i.11_div_3.d1e1448"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path707" />
+       id="path707"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.13274"
@@ -357,7 +395,8 @@
        class="id_NN_oclc.4770057679_v.5_i.11_div_6.d1e2730 id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path709" />
+       id="path709"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.33628"
@@ -365,7 +404,8 @@
        class="id_NN_oclc.4770057679_v.5_i.11_div_6.d1e2730 id_NN_oclc.4770057679_v.6_i.2_div_20.d1e2409"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path711" />
+       id="path711"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="13.5752"
@@ -373,7 +413,8 @@
        class="id_NN_oclc.4770057679_v.5_i.11_div_6.d1e2730 id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path713" />
+       id="path713"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.76991"
@@ -381,7 +422,8 @@
        class="id_NN_oclc.4770057679_v.5_i.11_div_6.d1e2730 id_NN_oclc.4770057679_v.7_i.7_div_4.d1e803"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path715" />
+       id="path715"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -389,7 +431,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_NN_oclc.4770057679_v.6_i.5_div_2.d1e1188"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path717" />
+       id="path717"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="25.8938"
@@ -397,7 +440,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path719" />
+       id="path719"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.30973"
@@ -405,7 +449,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_NN_oclc.4770057679_v.8_i.1_div_5.d1e1640"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path721" />
+       id="path721"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="10.2389"
@@ -413,7 +458,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_NN_oclc.4770057679_v.8_i.11-12_div_4.d1e1096"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path723" />
+       id="path723"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="15.3717"
@@ -421,7 +467,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_NN_oclc.644997575_v.2_i.11-12_div_16.d2e2045"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path725" />
+       id="path725"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -429,7 +476,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path727" />
+       id="path727"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="12.0354"
@@ -445,7 +493,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path731" />
+       id="path731"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.90265"
@@ -453,7 +502,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_oape.917_oclc.4770057679_v.7_i.5_div_6.d1e1838"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path733" />
+       id="path733"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="15.6283"
@@ -461,7 +511,8 @@
        class="id_NN_oclc.4770057679_v.5_i.9_div_2.d1e1398 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path735" />
+       id="path735"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.90265"
@@ -469,7 +520,8 @@
        class="id_NN_oclc.4770057679_v.6_i.10_div_24.d1e1750 id_NN_oclc.4770057679_v.6_i.11_div_3.d1e1448"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path737" />
+       id="path737"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="13.8319"
@@ -477,7 +529,8 @@
        class="id_NN_oclc.4770057679_v.6_i.10_div_24.d1e1750 id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path739" />
+       id="path739"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="11.5221"
@@ -485,7 +538,8 @@
        class="id_NN_oclc.4770057679_v.6_i.10_div_24.d1e1750 id_NN_oclc.4770057679_v.6_i.2_div_20.d1e2409"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path741" />
+       id="path741"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="18.9646"
@@ -493,7 +547,8 @@
        class="id_NN_oclc.4770057679_v.6_i.10_div_24.d1e1750 id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path743" />
+       id="path743"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="7.15929"
@@ -501,7 +556,8 @@
        class="id_NN_oclc.4770057679_v.6_i.10_div_24.d1e1750 id_NN_oclc.4770057679_v.7_i.7_div_4.d1e803"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path745" />
+       id="path745"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="18.4513"
@@ -509,7 +565,8 @@
        class="id_NN_oclc.4770057679_v.6_i.10_div_24.d1e1750 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path747" />
+       id="path747"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="16.9115"
@@ -517,7 +574,8 @@
        class="id_NN_oclc.4770057679_v.6_i.11_div_3.d1e1448 id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path749" />
+       id="path749"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="10.4956"
@@ -525,7 +583,8 @@
        class="id_NN_oclc.4770057679_v.6_i.11_div_3.d1e1448 id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path751" />
+       id="path751"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.36283"
@@ -533,7 +592,8 @@
        class="id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537 id_NN_oclc.4770057679_v.6_i.2_div_20.d1e2409"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path753" />
+       id="path753"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="26.4071"
@@ -541,7 +601,8 @@
        class="id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537 id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path755" />
+       id="path755"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -549,7 +610,8 @@
        class="id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537 id_NN_oclc.4770057679_v.7_i.7_div_4.d1e803"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path757" />
+       id="path757"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -557,7 +619,8 @@
        class="id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537 id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path759" />
+       id="path759"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -565,7 +628,8 @@
        class="id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path761" />
+       id="path761"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -573,7 +637,8 @@
        class="id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path763" />
+       id="path763"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -581,7 +646,8 @@
        class="id_NN_oclc.4770057679_v.6_i.12_div_3.d1e1537 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path765" />
+       id="path765"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="18.1947"
@@ -589,7 +655,8 @@
        class="id_NN_oclc.4770057679_v.6_i.2_div_20.d1e2409 id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path767" />
+       id="path767"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.53982"
@@ -597,7 +664,8 @@
        class="id_NN_oclc.4770057679_v.6_i.2_div_20.d1e2409 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path769" />
+       id="path769"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="11.7788"
@@ -605,7 +673,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_2.d1e1188 id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path771" />
+       id="path771"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="9.21239"
@@ -613,7 +682,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_2.d1e1188 id_oape.482_oclc.4770057679_v.5_i.3_div_4.d1e2033"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path773" />
+       id="path773"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -621,7 +691,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_2.d1e1188 id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path775" />
+       id="path775"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -629,7 +700,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_2.d1e1188 id_oape.482_oclc.4770057679_v.6_i.3_div_2.d1e1491"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path777" />
+       id="path777"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -637,7 +709,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_2.d1e1188 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path779" />
+       id="path779"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="9.46903"
@@ -645,7 +718,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_2.d1e1188 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path781" />
+       id="path781"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.56637"
@@ -653,7 +727,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_NN_oclc.4770057679_v.8_i.1_div_5.d1e1640"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path783" />
+       id="path783"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="20.7611"
@@ -661,7 +736,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_NN_oclc.4770057679_v.8_i.11-12_div_4.d1e1096"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path785" />
+       id="path785"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="8.95575"
@@ -669,7 +745,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_NN_oclc.644997575_v.2_i.11-12_div_16.d2e2045"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path787" />
+       id="path787"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -677,7 +754,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.185_oclc.4770057679_v.3_i.3_div_5.d1e2187"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path789" />
+       id="path789"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="8.95575"
@@ -685,7 +763,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path791" />
+       id="path791"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="7.9292"
@@ -701,7 +780,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.482_oclc.4770057679_v.5_i.3_div_4.d1e2033"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path795" />
+       id="path795"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -709,7 +789,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.482_oclc.4770057679_v.6_i.3_div_2.d1e1491"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path797" />
+       id="path797"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -717,7 +798,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path799" />
+       id="path799"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.82301"
@@ -725,7 +807,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path801" />
+       id="path801"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -749,7 +832,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path807" />
+       id="path807"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.56637"
@@ -757,7 +841,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path809" />
+       id="path809"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -765,7 +850,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path811" />
+       id="path811"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.10619"
@@ -773,7 +859,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path813" />
+       id="path813"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.38938"
@@ -781,7 +868,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path815" />
+       id="path815"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="15.3717"
@@ -789,7 +877,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_oape.917_oclc.4770057679_v.7_i.5_div_6.d1e1838"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path817" />
+       id="path817"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="25.6372"
@@ -797,7 +886,8 @@
        class="id_NN_oclc.4770057679_v.6_i.5_div_3.d1e2089 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path819" />
+       id="path819"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -805,7 +895,8 @@
        class="id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190 id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path821" />
+       id="path821"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="15.3717"
@@ -813,7 +904,8 @@
        class="id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190 id_NN_oclc.4770057679_v.7_i.7_div_4.d1e803"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path823" />
+       id="path823"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.76991"
@@ -821,7 +913,8 @@
        class="id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190 id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path825" />
+       id="path825"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -829,7 +922,8 @@
        class="id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path827" />
+       id="path827"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -837,7 +931,8 @@
        class="id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190 id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path829" />
+       id="path829"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="26.6637"
@@ -845,7 +940,8 @@
        class="id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path831" />
+       id="path831"
+       style="stroke-width:26.664;stroke-miterlimit:4;stroke-dasharray:none;stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.64602"
@@ -853,7 +949,8 @@
        class="id_NN_oclc.4770057679_v.6_i.6_div_2.d1e1190 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path833" />
+       id="path833"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.90265"
@@ -861,7 +958,8 @@
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808 id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path835" />
+       id="path835"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -869,7 +967,8 @@
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808 id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path837" />
+       id="path837"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="12.5487"
@@ -877,7 +976,8 @@
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808 id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path839" />
+       id="path839"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.33628"
@@ -885,7 +985,8 @@
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808 id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path841" />
+       id="path841"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.30973"
@@ -893,7 +994,8 @@
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path843" />
+       id="path843"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.10619"
@@ -901,7 +1003,8 @@
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path845" />
+       id="path845"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -909,7 +1012,8 @@
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808 id_oape.878_oclc.4770057679_v.8_i.4_"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path847" />
+       id="path847"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -917,7 +1021,8 @@
        class="id_NN_oclc.4770057679_v.7_i.7_div_4.d1e803 id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path849" />
+       id="path849"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.38938"
@@ -925,7 +1030,8 @@
        class="id_NN_oclc.4770057679_v.7_i.7_div_4.d1e803 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path851" />
+       id="path851"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -933,7 +1039,8 @@
        class="id_NN_oclc.4770057679_v.8_i.1_div_5.d1e1640 id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path853" />
+       id="path853"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.07965"
@@ -941,7 +1048,8 @@
        class="id_NN_oclc.4770057679_v.8_i.1_div_5.d1e1640 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path855" />
+       id="path855"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="15.3717"
@@ -949,7 +1057,8 @@
        class="id_NN_oclc.4770057679_v.8_i.1_div_5.d1e1640 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path857" />
+       id="path857"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.07965"
@@ -957,7 +1066,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_3.d1e818 id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path859" />
+       id="path859"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.64602"
@@ -965,7 +1075,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_3.d1e818 id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path861" />
+       id="path861"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.87611"
@@ -973,7 +1084,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_3.d1e818 id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path863" />
+       id="path863"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.02655"
@@ -989,7 +1101,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_3.d1e818 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path867" />
+       id="path867"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.30973"
@@ -997,7 +1110,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_3.d1e818 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path869" />
+       id="path869"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -1005,7 +1119,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_3.d1e818 id_oape.878_oclc.4770057679_v.8_i.4_"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path871" />
+       id="path871"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.38938"
@@ -1013,7 +1128,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_4.d1e1096 id_NN_oclc.644997575_v.2_i.11-12_div_16.d2e2045"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path873" />
+       id="path873"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -1021,7 +1137,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_4.d1e1096 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path875" />
+       id="path875"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.79646"
@@ -1029,7 +1146,8 @@
        class="id_NN_oclc.4770057679_v.8_i.11-12_div_4.d1e1096 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path877" />
+       id="path877"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.30973"
@@ -1037,7 +1155,8 @@
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844 id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path879" />
+       id="path879"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1045,7 +1164,8 @@
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844 id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path881" />
+       id="path881"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.02655"
@@ -1053,7 +1173,8 @@
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844 id_oape.741_oclc.4770057679_v.3_i.10_div_6.d1e2359"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path883" />
+       id="path883"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.38938"
@@ -1061,7 +1182,8 @@
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844 id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path885" />
+       id="path885"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="7.41593"
@@ -1069,7 +1191,8 @@
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844 id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path887" />
+       id="path887"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="14.3451"
@@ -1077,7 +1200,8 @@
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844 id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path889" />
+       id="path889"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="10.7522"
@@ -1085,7 +1209,8 @@
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844 id_oape.878_oclc.4770057679_v.8_i.4_"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path891" />
+       id="path891"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="19.9911"
@@ -1093,7 +1218,8 @@
        class="id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213 id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path893" />
+       id="path893"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1117,7 +1243,8 @@
        class="id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213 id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path899" />
+       id="path899"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1125,7 +1252,8 @@
        class="id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path901" />
+       id="path901"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="16.1416"
@@ -1133,7 +1261,8 @@
        class="id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path903" />
+       id="path903"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="30"
@@ -1141,7 +1270,8 @@
        class="id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213 id_oape.878_oclc.4770057679_v.8_i.4_"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path905" />
+       id="path905"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1157,7 +1287,8 @@
        class="id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254 id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path909" />
+       id="path909"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.59292"
@@ -1165,7 +1296,8 @@
        class="id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path911" />
+       id="path911"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="14.0885"
@@ -1173,7 +1305,8 @@
        class="id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254 id_oape.878_oclc.4770057679_v.8_i.4_"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path913" />
+       id="path913"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -1181,7 +1314,8 @@
        class="id_NN_oclc.644997575_v.2_i.11-12_div_16.d2e2045 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path915" />
+       id="path915"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -1189,7 +1323,8 @@
        class="id_NN_oclc.644997575_v.2_i.11-12_div_16.d2e2045 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path917" />
+       id="path917"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="24.354"
@@ -1197,7 +1332,8 @@
        class="id_oape.185_oclc.4770057679_v.3_i.3_div_5.d1e2187 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path919" />
+       id="path919"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.61947"
@@ -1205,7 +1341,8 @@
        class="id_oape.185_oclc.4770057679_v.3_i.3_div_5.d1e2187 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path921" />
+       id="path921"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.90265"
@@ -1213,7 +1350,8 @@
        class="id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path923" />
+       id="path923"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="13.5752"
@@ -1221,7 +1359,8 @@
        class="id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path925" />
+       id="path925"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.76991"
@@ -1229,7 +1368,8 @@
        class="id_oape.371_oclc.4770057679_v.7_i.12_div_5.d1e1681 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path927" />
+       id="path927"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.76991"
@@ -1237,7 +1377,8 @@
        class="id_oape.4065_oclc.4770057679_v.8_i.4_div_8.d1e2081 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path929" />
+       id="path929"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1253,7 +1394,8 @@
        class="id_oape.4065_oclc.4770057679_v.8_i.4_div_8.d1e2081 id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path933" />
+       id="path933"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="7.67257"
@@ -1261,7 +1403,8 @@
        class="id_oape.4065_oclc.4770057679_v.8_i.4_div_8.d1e2081 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path935" />
+       id="path935"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -1269,7 +1412,8 @@
        class="id_oape.4065_oclc.4770057679_v.8_i.4_div_8.d1e2081 id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path937" />
+       id="path937"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.30973"
@@ -1277,7 +1421,8 @@
        class="id_oape.4065_oclc.4770057679_v.8_i.4_div_8.d1e2081 id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path939" />
+       id="path939"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.02655"
@@ -1285,7 +1430,8 @@
        class="id_oape.4065_oclc.4770057679_v.8_i.4_div_8.d1e2081 id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path941" />
+       id="path941"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1293,7 +1439,8 @@
        class="id_oape.4065_oclc.4770057679_v.8_i.4_div_8.d1e2081 id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692"
        stroke-opacity="0.8"
        stroke="#4c483d"
-       id="path943" />
+       id="path943"
+       style="stroke:#70c93c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="9.21239"
@@ -1301,7 +1448,8 @@
        class="id_oape.482_oclc.4770057679_v.5_i.3_div_4.d1e2033 id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path945" />
+       id="path945"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.76991"
@@ -1309,7 +1457,8 @@
        class="id_oape.482_oclc.4770057679_v.5_i.3_div_4.d1e2033 id_oape.482_oclc.4770057679_v.6_i.3_div_2.d1e1491"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path947" />
+       id="path947"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="13.0619"
@@ -1317,7 +1466,8 @@
        class="id_oape.482_oclc.4770057679_v.5_i.3_div_4.d1e2033 id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path949" />
+       id="path949"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -1325,7 +1475,8 @@
        class="id_oape.482_oclc.4770057679_v.5_i.3_div_4.d1e2033 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path951" />
+       id="path951"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="24.354"
@@ -1333,7 +1484,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517 id_oape.482_oclc.4770057679_v.6_i.3_div_2.d1e1491"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path953" />
+       id="path953"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="30"
@@ -1341,7 +1493,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517 id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path955" />
+       id="path955"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="4.33628"
@@ -1349,7 +1502,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.2_div_2.d1e1517 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path957" />
+       id="path957"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="21.0177"
@@ -1357,7 +1511,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.3_div_2.d1e1491 id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810"
        stroke-opacity="0.8"
        stroke="#fbe1b2"
-       id="path959" />
+       id="path959"
+       style="stroke:#52b48c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1365,7 +1520,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.3_div_2.d1e1491 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path961" />
+       id="path961"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.56637"
@@ -1373,7 +1529,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.3_div_2.d1e1491 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path963" />
+       id="path963"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1381,7 +1538,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810 id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#a0a495"
-       id="path965" />
+       id="path965"
+       style="stroke:#ee8cf8;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1389,7 +1547,8 @@
        class="id_oape.482_oclc.4770057679_v.6_i.4_div_7.d1e1810 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path967" />
+       id="path967"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="9.9823"
@@ -1397,7 +1556,8 @@
        class="id_oape.497_oclc.4770057679_v.3_i.5_div_3.d1e696 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path969" />
+       id="path969"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="12.292"
@@ -1413,7 +1573,8 @@
        class="id_oape.632_oclc.4770057679_v.4_i.5-6_div_6.d1e1527 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path973" />
+       id="path973"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1421,7 +1582,8 @@
        class="id_oape.632_oclc.4770057679_v.4_i.5-6_div_6.d1e1527 id_oape.741_oclc.4770057679_v.3_i.10_div_6.d1e2359"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path975" />
+       id="path975"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="6.38938"
@@ -1429,7 +1591,8 @@
        class="id_oape.632_oclc.4770057679_v.6_i.4_div_26.d1e2461 id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path977" />
+       id="path977"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1437,7 +1600,8 @@
        class="id_oape.632_oclc.4770057679_v.6_i.4_div_26.d1e2461 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path979" />
+       id="path979"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.56637"
@@ -1445,7 +1609,8 @@
        class="id_oape.632_oclc.4770057679_v.6_i.4_div_26.d1e2461 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path981" />
+       id="path981"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1453,7 +1618,8 @@
        class="id_oape.632_oclc.4770057679_v.6_i.4_div_26.d1e2461 id_oape.741_oclc.4770057679_v.3_i.10_div_6.d1e2359"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path983" />
+       id="path983"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.53982"
@@ -1461,7 +1627,8 @@
        class="id_oape.632_oclc.4770057679_v.6_i.4_div_26.d1e2461 id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path985" />
+       id="path985"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.30973"
@@ -1469,7 +1636,8 @@
        class="id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107 id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path987" />
+       id="path987"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1477,7 +1645,8 @@
        class="id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107 id_oape.707_oclc.4770057679_v.4_i.1_div_3.d1e1085"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path989" />
+       id="path989"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="10.2389"
@@ -1485,7 +1654,8 @@
        class="id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107 id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path991" />
+       id="path991"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.36283"
@@ -1493,7 +1663,8 @@
        class="id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path993" />
+       id="path993"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1501,7 +1672,8 @@
        class="id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107 id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path995" />
+       id="path995"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -1509,7 +1681,8 @@
        class="id_oape.638_oclc.4770057679_v.7_i.2_div_4.d1e1107 id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path997" />
+       id="path997"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="30"
@@ -1517,7 +1690,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106 id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path999" />
+       id="path999"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="23.5841"
@@ -1525,7 +1699,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106 id_oape.707_oclc.4770057679_v.4_i.1_div_3.d1e1085"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1001" />
+       id="path1001"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="14.6018"
@@ -1533,7 +1708,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106 id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1003" />
+       id="path1003"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -1541,7 +1717,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.4_div_5.d1e1106 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1005" />
+       id="path1005"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="21.2743"
@@ -1549,7 +1726,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910 id_oape.707_oclc.4770057679_v.4_i.1_div_3.d1e1085"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1007" />
+       id="path1007"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.76991"
@@ -1557,7 +1735,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910 id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1009" />
+       id="path1009"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -1565,7 +1744,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1011" />
+       id="path1011"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1573,7 +1753,8 @@
        class="id_oape.707_oclc.4770057679_v.3_i.7_div_4.d1e910 id_oape.917_oclc.4770057679_v.7_i.5_div_6.d1e1838"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path1013" />
+       id="path1013"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="8.18584"
@@ -1581,7 +1762,8 @@
        class="id_oape.707_oclc.4770057679_v.4_i.1_div_3.d1e1085 id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1015" />
+       id="path1015"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.82301"
@@ -1589,7 +1771,8 @@
        class="id_oape.707_oclc.4770057679_v.4_i.1_div_3.d1e1085 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1017" />
+       id="path1017"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="23.5841"
@@ -1597,7 +1780,8 @@
        class="id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472 id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132"
        stroke-opacity="0.8"
        stroke="#d5e9c3"
-       id="path1019" />
+       id="path1019"
+       style="stroke:#ef7c3c;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.28319"
@@ -1605,7 +1789,8 @@
        class="id_oape.707_oclc.4770057679_v.5_i.6_div_5.d1e4472 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1021" />
+       id="path1021"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.25664"
@@ -1613,7 +1798,8 @@
        class="id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132 id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1023" />
+       id="path1023"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1"
@@ -1621,7 +1807,8 @@
        class="id_oape.707_oclc.4770057679_v.7_i.8_div_6.d1e1132 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1025" />
+       id="path1025"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="27.4336"
@@ -1629,7 +1816,8 @@
        class="id_oape.741_oclc.4770057679_v.3_i.10_div_6.d1e2359 id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1027" />
+       id="path1027"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="8.69911"
@@ -1637,7 +1825,8 @@
        class="id_oape.741_oclc.4770057679_v.3_i.10_div_6.d1e2359 id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1029" />
+       id="path1029"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="7.67257"
@@ -1645,7 +1834,8 @@
        class="id_oape.741_oclc.4770057679_v.3_i.10_div_6.d1e2359 id_oape.741_oclc.4770057679_v.7_i.4_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1031" />
+       id="path1031"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="27.6903"
@@ -1653,7 +1843,8 @@
        class="id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119 id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1033" />
+       id="path1033"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="18.1947"
@@ -1661,7 +1852,8 @@
        class="id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119 id_oape.741_oclc.4770057679_v.7_i.4_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1035" />
+       id="path1035"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="16.9115"
@@ -1669,7 +1861,8 @@
        class="id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120 id_oape.741_oclc.4770057679_v.7_i.4_div_3.d1e696"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1037" />
+       id="path1037"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="3.0531"
@@ -1677,7 +1870,8 @@
        class="id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120 id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1039" />
+       id="path1039"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="28.4602"
@@ -1685,7 +1879,8 @@
        class="id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1041" />
+       id="path1041"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="8.95575"
@@ -1693,7 +1888,8 @@
        class="id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096 id_oape.878_oclc.4770057679_v.8_i.4_"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1043" />
+       id="path1043"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.61947"
@@ -1701,7 +1897,8 @@
        class="id_oape.878_oclc.4770057679_v.4_i.8_div_3.d1e692 id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1045" />
+       id="path1045"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="2.53982"
@@ -1709,7 +1906,8 @@
        class="id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262 id_oape.878_oclc.4770057679_v.8_i.4_"
        stroke-opacity="0.8"
        stroke="#867d68"
-       id="path1047" />
+       id="path1047"
+       style="stroke:#6fa2e5;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="1.51327"
@@ -1717,7 +1915,8 @@
        class="id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262 id_oape.917_oclc.4770057679_v.7_i.5_div_6.d1e1838"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path1049" />
+       id="path1049"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
     <path
        fill="none"
        stroke-width="5.61947"
@@ -1725,7 +1924,8 @@
        class="id_oape.917_oclc.4770057679_v.7_i.5_div_6.d1e1838 id_أبو_اليسر_ابراهيم_بن_محمد_بن_المدبر_oclc.4770057679_v.4_i.9_div_4.d1e1061"
        stroke-opacity="0.8"
        stroke="#c6b18d"
-       id="path1051" />
+       id="path1051"
+       style="stroke:#ed718f;stroke-opacity:0.80000001" />
   </g>
   <g
      id="nodes"
@@ -1762,7 +1962,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1058" />
+       id="circle1058"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#a0a495"
@@ -1784,7 +1985,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1062" />
+       id="circle1062"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#fbe1b2"
@@ -1795,29 +1997,32 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1064" />
+       id="circle1064"
+       style="fill:#52b48c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="41.755726"
        cx="1509.4779"
        class="id_oape.741_oclc.4770057679_v.3_i.10_div_6.d1e2359"
        cy="-882.01624"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1066" />
+       id="circle1066"
+       r="41.755726"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="60.330788"
        cx="1625.78"
        class="id_oape.741_oclc.4770057679_v.3_i.11_div_5.d1e1119"
        cy="-748.68732"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1068" />
+       id="circle1068"
+       r="60.330788"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#c6b18d"
@@ -1828,7 +2033,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1070" />
+       id="circle1070"
+       style="fill:#ed718f;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#d5e9c3"
@@ -1839,7 +2045,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1072" />
+       id="circle1072"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#dee0d8"
@@ -1872,7 +2079,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1078" />
+       id="circle1078"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#c6b18d"
@@ -1883,29 +2091,32 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1080" />
+       id="circle1080"
+       style="fill:#ed718f;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="51.043259"
        cx="2200.6172"
        class="id_oape.878_oclc.4770057679_v.4_i.12_div_7.d1e3096"
        cy="-27.069777"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1082" />
+       id="circle1082"
+       r="51.043259"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="54.351147"
        cx="1904.7758"
        class="id_oape.878_oclc.4770057679_v.5_i.1_div_8.d1e3262"
        cy="155.85309"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1084" />
+       id="circle1084"
+       r="54.351147"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#fbe1b2"
@@ -1916,7 +2127,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1086" />
+       id="circle1086"
+       style="fill:#52b48c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#d5e9c3"
@@ -1927,7 +2139,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1088" />
+       id="circle1088"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#c6b18d"
@@ -1938,7 +2151,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1090" />
+       id="circle1090"
+       style="fill:#ed718f;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#d5e9c3"
@@ -1949,7 +2163,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1092" />
+       id="circle1092"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#4c483d"
@@ -1960,7 +2175,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1094" />
+       id="circle1094"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#fbe1b2"
@@ -1971,7 +2187,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1096" />
+       id="circle1096"
+       style="fill:#52b48c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#4c483d"
@@ -1982,7 +2199,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1098" />
+       id="circle1098"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#fbe1b2"
@@ -1993,7 +2211,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1100" />
+       id="circle1100"
+       style="fill:#52b48c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#fbe1b2"
@@ -2004,7 +2223,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1102" />
+       id="circle1102"
+       style="fill:#52b48c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#dee0d8"
@@ -2026,7 +2246,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1106" />
+       id="circle1106"
+       style="fill:#ed718f;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#c6b18d"
@@ -2037,7 +2258,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1108" />
+       id="circle1108"
+       style="fill:#ed718f;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#4c483d"
@@ -2048,7 +2270,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1110" />
+       id="circle1110"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#4c483d"
@@ -2059,7 +2282,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1112" />
+       id="circle1112"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#4c483d"
@@ -2070,7 +2294,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1114" />
+       id="circle1114"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#4c483d"
@@ -2081,7 +2306,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1116" />
+       id="circle1116"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#d5e9c3"
@@ -2092,29 +2318,32 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1118" />
+       id="circle1118"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="56.768448"
        cx="1832.5549"
        class="id_oape.741_oclc.4770057679_v.7_i.3_div_5.d1e1120"
        cy="-643.87469"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1120" />
+       id="circle1120"
+       r="56.768448"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="40.101784"
        cx="1721.5592"
        class="id_oape.741_oclc.4770057679_v.7_i.4_div_3.d1e696"
        cy="-943.01031"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1122" />
+       id="circle1122"
+       r="40.101784"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#c6b18d"
@@ -2125,7 +2354,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1124" />
+       id="circle1124"
+       style="fill:#ed718f;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#4c483d"
@@ -2136,7 +2366,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1126" />
+       id="circle1126"
+       style="fill:#70c93c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#d5e9c3"
@@ -2147,18 +2378,20 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1128" />
+       id="circle1128"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="34.75827"
        cx="2285.6062"
        class="id_NN_oclc.4770057679_v.7_i.10_div_4.d1e808"
        cy="-206.12431"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1130" />
+       id="circle1130"
+       r="34.75827"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#d5e9c3"
@@ -2169,7 +2402,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1132" />
+       id="circle1132"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#d5e9c3"
@@ -2180,29 +2414,32 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1134" />
+       id="circle1134"
+       style="fill:#ef7c3c;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="44.809158"
        cx="2080.2629"
        class="id_NN_oclc.4770057679_v.8_i.3_div_4.d1e844"
        cy="-510.78027"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1136" />
+       id="circle1136"
+       r="44.809158"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="51.933842"
        cx="2114.7803"
        class="id_oape.878_oclc.4770057679_v.8_i.4_"
        cy="-282.78244"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1138" />
+       id="circle1138"
+       r="51.933842"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#dee0d8"
@@ -2217,25 +2454,27 @@
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="61.475826"
        cx="1830.4835"
        class="id_NN_oclc.4770057679_v.8_i.5_div_6.d1e1213"
        cy="-342.00116"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1142" />
+       id="circle1142"
+       r="61.475826"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#867d68"
-       r="42.264633"
        cx="1903.6881"
        class="id_NN_oclc.4770057679_v.8_i.7_div_7.d1e1254"
        cy="-148.78035"
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1144" />
+       id="circle1144"
+       r="42.264633"
+       style="fill:#6fa2e5;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#dee0d8"
@@ -2257,7 +2496,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1148" />
+       id="circle1148"
+       style="fill:#ed718f;fill-opacity:1" />
     <circle
        fill-opacity="1"
        fill="#c6b18d"
@@ -2268,7 +2508,8 @@
        stroke="#000000"
        stroke-opacity="1"
        stroke-width="1"
-       id="circle1150" />
+       id="circle1150"
+       style="fill:#ed718f;fill-opacity:1" />
   </g>
   <g
      id="node-labels"
